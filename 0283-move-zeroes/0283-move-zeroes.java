@@ -11,15 +11,6 @@ class Solution {
                 i++;
             }
                 j++;
-        }
-        // for(int j=0;j<nums.length;j++){
-        //     if(nums[j]!=0){
-        //         temp = nums[j];
-        //         nums[j] = nums[i];
-        //         nums[i] = temp;
-        //         i++;
-
-        //     }
-        
+        } 
     }
 }
