@@ -9,20 +9,17 @@ class Solution {
         return possCombi;
     }
 
-    public void helper(int[] nums, List<Integer> temp, List<List<Integer>> possCombi, int k,int start) {
+    public void helper(int[] nums, List<Integer> temp, List<List<Integer>> possCombi, int k, int start) {
         if (temp.size() == k) {
             possCombi.add(new ArrayList<>(temp));
-        } else {
-            for (int i = start; i < nums.length; i++) {
-                if (temp.contains(nums[i])) {
-                    continue;
-                } else {
-                    temp.add(nums[i]);
-                    helper(nums, temp, possCombi, k, i+1);
-                    temp.remove(temp.size() - 1);
+            return;
+        }
+        for (int i = start; i < nums.length; i++) {
 
-                }
-            }
+            temp.add(nums[i]);
+            helper(nums, temp, possCombi, k, i + 1);
+            temp.remove(temp.size() - 1);
+
         }
     }
 }
