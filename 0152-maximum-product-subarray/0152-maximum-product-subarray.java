@@ -8,7 +8,14 @@ class Solution {
         // int maxP = nums[0];
         // int result = maxP;
         // for(int i=1;i<nums.length;i++){
+        //     int current = nums[i];
         // int temp = maxP;
+        // if (current < 0) {
+        //         // Swap maxProduct and minProduct when current is negative
+        //         // int temp = maxP;
+        //         maxP = minP;
+        //         minP = temp;
+        //     }
         // maxP= Math.max(nums[i],Math.max(minP*nums[i],maxP*nums[i]));
         // minP = Math.min(nums[i],Math.max(temp*nums[i],minP*nums[i]));
         // result = Math.max(result,Math.max(minP,maxP));
