@@ -10,14 +10,12 @@ class Solution {
             return ;
         }
             if(openBrack<n){
-            temp.append("(");
-            System.out.println(openBrack);
-            helper(n,temp,combi,openBrack+1,closeBrack);
+            helper(n,temp.append("("),combi,openBrack+1,closeBrack);
             temp.deleteCharAt(temp.length() - 1);
             }
             if(closeBrack<openBrack){
-                temp.append(")");
-                helper(n,temp,combi,openBrack,closeBrack+1);
+                
+                helper(n,temp.append(")"),combi,openBrack,closeBrack+1);
                 temp.deleteCharAt(temp.length() - 1);
             }
     }
