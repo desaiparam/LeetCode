@@ -11,12 +11,12 @@ class Solution {
         }
             if(openBrack<n){
             helper(n,temp.append("("),combi,openBrack+1,closeBrack);
-            temp.deleteCharAt(temp.length() - 1);
+             temp.setLength(temp.length()-1);
             }
             if(closeBrack<openBrack){
                 
                 helper(n,temp.append(")"),combi,openBrack,closeBrack+1);
-                temp.deleteCharAt(temp.length() - 1);
+                  temp.setLength(temp.length()-1);
             }
     }
 }
