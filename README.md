@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/desaiparam/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/desaiparam/LeetCode/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/desaiparam/LeetCode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/desaiparam/LeetCode/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/desaiparam/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/desaiparam/LeetCode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/desaiparam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/desaiparam/LeetCode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/desaiparam/LeetCode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/desaiparam/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/desaiparam/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/desaiparam/LeetCode/tree/master/0152-maximum-product-subarray) |
