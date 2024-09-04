@@ -18,8 +18,8 @@ class Solution {
      midd.next= null;
     ListNode left = sortList(head);
     ListNode right = sortList(nmidd);
-    ListNode sortedL= merge(left,right);
-    return sortedL;
+    
+    return  merge(left,right);
     }
 
     public ListNode merge(ListNode left, ListNode right) {
