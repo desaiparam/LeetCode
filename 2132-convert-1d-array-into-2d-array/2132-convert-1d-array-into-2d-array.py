@@ -1,7 +1,10 @@
-import numpy as np
 class Solution:
     def construct2DArray(self, original: List[int], m: int, n: int) -> List[List[int]]:
-
-        if len(original) != m*n:
+        res = [[0] *n for _ in range(m)]
+        # fd= n-1
+        # sd = 2*n-1
+        if len(original) !=m*n:
             return []
-        return (np.array(original).reshape(m,n)).tolist()
+        for i in range(len(original)):
+            res[i//n][i%n] = original[i]
+        return res
