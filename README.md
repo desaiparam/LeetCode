@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/desaiparam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2181-smallest-index-with-equal-value](https://github.com/desaiparam/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 ## Hash Table
 |  |
 | ------- |
