@@ -1,6 +1,6 @@
 class Solution:
     def smallestEqual(self, nums: List[int]) -> int:
-        smaller = min(nums)
+        # smaller = min(nums)
         for i in range(len(nums)):
             if i % 10 == nums[i] :
                 # print("nums[i]",nums[i])
