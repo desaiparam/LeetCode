@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/desaiparam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/desaiparam/LeetCode/tree/master/0202-happy-number) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/desaiparam/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Tree
 |  |
 | ------- |
