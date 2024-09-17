@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/desaiparam/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Stack
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Math
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 ## Sliding Window
 |  |
 | ------- |
