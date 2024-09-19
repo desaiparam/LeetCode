@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/desaiparam/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/desaiparam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/desaiparam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/desaiparam/LeetCode/tree/master/2752-sum-multiples) |
 | [3568-find-the-key-of-the-numbers](https://github.com/desaiparam/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Two Pointers
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/desaiparam/LeetCode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/desaiparam/LeetCode/tree/master/0055-jump-game) |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Backtracking
 |  |
