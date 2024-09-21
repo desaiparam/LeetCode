@@ -10,9 +10,10 @@ class Solution:
         for j in range(len(t)):
             setT[t[j]] = j
         # print("setT",setT) 
-        for key in setS :
-            if key in setT:
-                diff += abs(setS[key] - setT[key])
+        # for key in setS :
+        #     if key in setT:
+        #         diff += abs(setS[key] - setT[key])
+        diff=sum(abs(setS[key] - setT[key]) for key in setS if key in setT)
         return diff
 
 
