@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/desaiparam/LeetCode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/desaiparam/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/desaiparam/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/desaiparam/LeetCode/tree/master/0290-word-pattern) |
 | [0394-decode-string](https://github.com/desaiparam/LeetCode/tree/master/0394-decode-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/desaiparam/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/desaiparam/LeetCode/tree/master/0202-happy-number) |
+| [0290-word-pattern](https://github.com/desaiparam/LeetCode/tree/master/0290-word-pattern) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
