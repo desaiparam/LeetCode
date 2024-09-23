@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/desaiparam/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/desaiparam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
