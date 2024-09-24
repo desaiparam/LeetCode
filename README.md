@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/desaiparam/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Stack
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/desaiparam/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Table
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/desaiparam/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/desaiparam/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
@@ -312,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1119-robot-bounded-in-circle](https://github.com/desaiparam/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
