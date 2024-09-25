@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/desaiparam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/desaiparam/LeetCode/tree/master/2752-sum-multiples) |
+| [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3568-find-the-key-of-the-numbers](https://github.com/desaiparam/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Two Pointers
 |  |
