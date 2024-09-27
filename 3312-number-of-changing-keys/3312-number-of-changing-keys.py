@@ -4,12 +4,9 @@ class Solution:
         print(l_s)
         count = 0
         key = l_s[0]
-        sets = {}
         for i in range(len(l_s)):
             if ord(l_s[i])- ord('a') != ord(key)-ord('a') :
                 key=l_s[i]
-                # sets[key] = 1
-                print(l_s[i])
                 count+=1
         return count
         
