@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
+| [0981-delete-columns-to-make-sorted](https://github.com/desaiparam/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1119-robot-bounded-in-circle](https://github.com/desaiparam/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1123-single-row-keyboard](https://github.com/desaiparam/LeetCode/tree/master/1123-single-row-keyboard) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/desaiparam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/desaiparam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0981-delete-columns-to-make-sorted](https://github.com/desaiparam/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1386-shift-2d-grid](https://github.com/desaiparam/LeetCode/tree/master/1386-shift-2d-grid) |
