@@ -7,5 +7,6 @@ class Solution:
         salary.remove(mini)
         salary.remove(maxi)
         # print(salary)
-        return sum(salary)/len(salary)
+        sumy = sum(salary)
+        return sumy/len(salary)
         
