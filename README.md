@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/desaiparam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/desaiparam/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/desaiparam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/desaiparam/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/desaiparam/LeetCode/tree/master/2752-sum-multiples) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/desaiparam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2491-smallest-even-multiple](https://github.com/desaiparam/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Rolling Hash
 |  |
 | ------- |
