@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/desaiparam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/desaiparam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/desaiparam/LeetCode/tree/master/2547-odd-string-difference) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/desaiparam/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/desaiparam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Math
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/desaiparam/LeetCode/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/desaiparam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Sliding Window
 |  |
 | ------- |
