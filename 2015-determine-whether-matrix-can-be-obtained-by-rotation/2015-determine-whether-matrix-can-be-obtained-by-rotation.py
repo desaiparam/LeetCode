@@ -3,7 +3,7 @@ class Solution:
         def rotate(mat):
             return [list(reversed(row)) for row in list(zip(*mat))]
         rotated = rotate(mat)
-        for _ in range(4):
+        for _ in range(20):
             print(rotated)
             if rotated == target:
                 return True
