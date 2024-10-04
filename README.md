@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/desaiparam/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/desaiparam/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/desaiparam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-shift-2d-grid](https://github.com/desaiparam/LeetCode/tree/master/1386-shift-2d-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/desaiparam/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/desaiparam/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Binary Indexed Tree
 |  |
 | ------- |
