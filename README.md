@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-number-of-changing-keys](https://github.com/desaiparam/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3379-score-of-a-string](https://github.com/desaiparam/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/desaiparam/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/desaiparam/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Stack
 |  |
 | ------- |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/desaiparam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/desaiparam/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Backtracking
 |  |
 | ------- |
