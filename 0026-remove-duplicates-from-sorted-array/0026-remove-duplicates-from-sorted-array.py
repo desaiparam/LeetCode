@@ -2,7 +2,6 @@ class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         previous_element = nums[0]
         if len(nums) <= 1:
-            print(nums)
             return
         i=1
         while i< len(nums):
@@ -12,5 +11,4 @@ class Solution:
             else:
                 previous_element = nums[i]
                 i+=1
-        print(nums)
         
