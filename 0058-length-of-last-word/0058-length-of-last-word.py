@@ -1,7 +1,6 @@
 class Solution:
     def lengthOfLastWord(self, s: str) -> int:
-        m = re.search(r'\b\w+\b',s[::-1])
-        if m:
-            return len(m.group()[::-1])
-        return 0
-        
+        spl = s.split()
+        print(spl[-1])
+        return len(spl[-1])
+         
