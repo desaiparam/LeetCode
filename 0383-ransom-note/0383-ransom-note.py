@@ -22,7 +22,7 @@ class Solution:
                 return False
             else:
                 magazine = magazine.replace(i,"",1)
-                print(magazine)
+                # print(magazine)
         return True
 
         
