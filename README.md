@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0981-delete-columns-to-make-sorted](https://github.com/desaiparam/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
+| [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/desaiparam/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/desaiparam/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
+| [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/desaiparam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String Matching
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/desaiparam/LeetCode/tree/master/0274-h-index) |
+| [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/desaiparam/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
