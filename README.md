@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/desaiparam/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1168-duplicate-zeros](https://github.com/desaiparam/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1386-shift-2d-grid](https://github.com/desaiparam/LeetCode/tree/master/1386-shift-2d-grid) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/desaiparam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/desaiparam/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1168-duplicate-zeros](https://github.com/desaiparam/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/desaiparam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 ## String Matching
