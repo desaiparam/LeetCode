@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/desaiparam/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/desaiparam/LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/desaiparam/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/desaiparam/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/desaiparam/LeetCode/tree/master/0045-jump-game-ii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/desaiparam/LeetCode/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0374-guess-number-higher-or-lower](https://github.com/desaiparam/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
