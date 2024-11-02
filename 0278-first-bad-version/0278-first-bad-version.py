@@ -12,6 +12,5 @@ class Solution:
                 right = mid
             elif res == False:
                 left = mid + 1
-
         return left
         
