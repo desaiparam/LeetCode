@@ -4,10 +4,10 @@ class Solution:
         #     if nums[i] == val:
         #         nums.pop(i)
 
-        k = len(nums)
+        # k = len(nums)
         while val in nums:
             nums.remove(val)
-            k -= 1
+            # k -= 1
         
 
         
