@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/desaiparam/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
+| [1137-height-checker](https://github.com/desaiparam/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/desaiparam/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/desaiparam/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/desaiparam/LeetCode/tree/master/0274-h-index) |
 | [0941-sort-array-by-parity](https://github.com/desaiparam/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1137-height-checker](https://github.com/desaiparam/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/desaiparam/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/desaiparam/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/desaiparam/LeetCode/tree/master/0274-h-index) |
+| [1137-height-checker](https://github.com/desaiparam/LeetCode/tree/master/1137-height-checker) |
 ## Interactive
 |  |
 | ------- |
