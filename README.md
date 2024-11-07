@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/desaiparam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/desaiparam/LeetCode/tree/master/0724-find-pivot-index) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0792-binary-search](https://github.com/desaiparam/LeetCode/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/desaiparam/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/desaiparam/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0724-find-pivot-index](https://github.com/desaiparam/LeetCode/tree/master/0724-find-pivot-index) |
 | [1983-maximum-population-year](https://github.com/desaiparam/LeetCode/tree/master/1983-maximum-population-year) |
 | [3034-points-that-intersect-with-cars](https://github.com/desaiparam/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 ## Matrix
