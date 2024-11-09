@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/desaiparam/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/desaiparam/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/desaiparam/LeetCode/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/desaiparam/LeetCode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/desaiparam/LeetCode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/desaiparam/LeetCode/tree/master/0125-valid-palindrome) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/desaiparam/LeetCode/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/desaiparam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/desaiparam/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/desaiparam/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/desaiparam/LeetCode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/desaiparam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/desaiparam/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/desaiparam/LeetCode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/desaiparam/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/desaiparam/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/desaiparam/LeetCode/tree/master/0136-single-number) |
@@ -441,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/desaiparam/LeetCode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/desaiparam/LeetCode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/desaiparam/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
