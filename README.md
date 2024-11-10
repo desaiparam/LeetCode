@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
+| [0643-maximum-average-subarray-i](https://github.com/desaiparam/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/desaiparam/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/desaiparam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/desaiparam/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/desaiparam/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/desaiparam/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
