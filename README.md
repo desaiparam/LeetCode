@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/desaiparam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0724-find-pivot-index](https://github.com/desaiparam/LeetCode/tree/master/0724-find-pivot-index) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/desaiparam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/desaiparam/LeetCode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/desaiparam/LeetCode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/desaiparam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0941-sort-array-by-parity](https://github.com/desaiparam/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/desaiparam/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/desaiparam/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/desaiparam/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/desaiparam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/desaiparam/LeetCode/tree/master/0274-h-index) |
+| [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/desaiparam/LeetCode/tree/master/1137-height-checker) |
 ## Interactive
 |  |
