@@ -8,7 +8,6 @@ class MyHashSet:
 
     def remove(self, key: int) -> None:
         self.maping.pop(key,None)
-        # pass
 
     def contains(self, key: int) -> bool:
         return self.maping[key] == 1
