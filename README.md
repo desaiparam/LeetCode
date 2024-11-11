@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/desaiparam/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/desaiparam/LeetCode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/desaiparam/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/desaiparam/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/desaiparam/LeetCode/tree/master/0412-fizz-buzz) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/desaiparam/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/desaiparam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/desaiparam/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/desaiparam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaiparam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/desaiparam/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/desaiparam/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1983-maximum-population-year](https://github.com/desaiparam/LeetCode/tree/master/1983-maximum-population-year) |
@@ -579,4 +582,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/desaiparam/LeetCode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/desaiparam/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
