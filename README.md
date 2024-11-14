@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/desaiparam/LeetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/desaiparam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/desaiparam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0383-ransom-note](https://github.com/desaiparam/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/desaiparam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -569,12 +570,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 ## Counting Sort
 |  |
