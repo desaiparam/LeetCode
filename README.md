@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/desaiparam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaiparam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/desaiparam/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/desaiparam/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/desaiparam/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/desaiparam/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/desaiparam/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [2121-find-if-path-exists-in-graph](https://github.com/desaiparam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/desaiparam/LeetCode/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/desaiparam/LeetCode/tree/master/0572-subtree-of-another-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/desaiparam/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Linked List
 |  |
