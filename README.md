@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/desaiparam/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/desaiparam/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/desaiparam/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/desaiparam/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/desaiparam/LeetCode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/desaiparam/LeetCode/tree/master/0200-number-of-islands) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/desaiparam/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/desaiparam/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/desaiparam/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0202-happy-number](https://github.com/desaiparam/LeetCode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/desaiparam/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/desaiparam/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/desaiparam/LeetCode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/desaiparam/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0170-two-sum-iii-data-structure-design](https://github.com/desaiparam/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0189-rotate-array](https://github.com/desaiparam/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/desaiparam/LeetCode/tree/master/0202-happy-number) |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
@@ -586,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/desaiparam/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
@@ -593,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0170-two-sum-iii-data-structure-design](https://github.com/desaiparam/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 ## Counting Sort
