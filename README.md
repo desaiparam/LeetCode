@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/desaiparam/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/desaiparam/LeetCode/tree/master/0283-move-zeroes) |
+| [0286-walls-and-gates](https://github.com/desaiparam/LeetCode/tree/master/0286-walls-and-gates) |
 | [0288-unique-word-abbreviation](https://github.com/desaiparam/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0300-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/desaiparam/LeetCode/tree/master/0322-coin-change) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/desaiparam/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/desaiparam/LeetCode/tree/master/0200-number-of-islands) |
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0286-walls-and-gates](https://github.com/desaiparam/LeetCode/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/desaiparam/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [2121-find-if-path-exists-in-graph](https://github.com/desaiparam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/desaiparam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/desaiparam/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/desaiparam/LeetCode/tree/master/0200-number-of-islands) |
+| [0286-walls-and-gates](https://github.com/desaiparam/LeetCode/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1386-shift-2d-grid](https://github.com/desaiparam/LeetCode/tree/master/1386-shift-2d-grid) |
