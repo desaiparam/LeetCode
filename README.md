@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/desaiparam/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/desaiparam/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/desaiparam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/desaiparam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/desaiparam/LeetCode/tree/master/0414-third-maximum-number) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/desaiparam/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0249-group-shifted-strings](https://github.com/desaiparam/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0290-word-pattern](https://github.com/desaiparam/LeetCode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/desaiparam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/desaiparam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0274-h-index](https://github.com/desaiparam/LeetCode/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/desaiparam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/desaiparam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/desaiparam/LeetCode/tree/master/0414-third-maximum-number) |
@@ -452,10 +455,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/desaiparam/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/desaiparam/LeetCode/tree/master/0190-reverse-bits) |
+| [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/desaiparam/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/desaiparam/LeetCode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/desaiparam/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
@@ -574,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Number Theory
 |  |
 | ------- |
@@ -617,4 +623,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
