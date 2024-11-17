@@ -21,6 +21,8 @@ class Solution:
                 ds[s[i]] = i
             if t[i] not in dt:
                 dt[t[i]] = i
+            # print(ds)
+            # print(dt)
             if ds[s[i]] != dt[t[i]]:
                 return False
         return True
