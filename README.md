@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/desaiparam/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 | [0941-sort-array-by-parity](https://github.com/desaiparam/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0981-delete-columns-to-make-sorted](https://github.com/desaiparam/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -609,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/desaiparam/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 ## Data Stream
 |  |
@@ -631,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 ## Bucket Sort
 |  |
 | ------- |
