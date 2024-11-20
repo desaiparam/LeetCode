@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/desaiparam/LeetCode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/desaiparam/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/desaiparam/LeetCode/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/desaiparam/LeetCode/tree/master/0394-decode-string) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
 ## Array
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/desaiparam/LeetCode/tree/master/0155-min-stack) |
 | [0170-two-sum-iii-data-structure-design](https://github.com/desaiparam/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0288-unique-word-abbreviation](https://github.com/desaiparam/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0346-moving-average-from-data-stream](https://github.com/desaiparam/LeetCode/tree/master/0346-moving-average-from-data-stream) |
