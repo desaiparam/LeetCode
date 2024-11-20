@@ -3,12 +3,12 @@ class Solution:
         # ps = set()
         ps = []
         # print(n)
-        for i in range(n+1):
+        for i in range(1, int(n**0.5)+1):
             # print(i)
-            if int(i**0.5) * int(i**0.5) == i:
-                # print("i",i)
-                # ps.add(i)
-                ps.append(i)
+            # if int(i**0.5) * int(i**0.5) == i:
+            #     # print("i",i)
+            #     # ps.add(i)
+            ps.append(i*i)
         visi = set()
         # print(ps)
         que = deque()
@@ -29,5 +29,5 @@ class Solution:
                     que.append((n_target,ste+1))
                     # print(que)
         # print(visi)
-        # return -1
+        return -1
         
