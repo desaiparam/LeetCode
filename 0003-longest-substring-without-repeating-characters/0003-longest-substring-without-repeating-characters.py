@@ -7,6 +7,7 @@ class Solution:
             if s[i] in sets:
                 maxs=max(maxs,sets[s[i]]+1)
             sets[s[i]] = i
+            # print(sets)
             max_length = max(max_length,i-maxs+1)
         return max_length 
         
