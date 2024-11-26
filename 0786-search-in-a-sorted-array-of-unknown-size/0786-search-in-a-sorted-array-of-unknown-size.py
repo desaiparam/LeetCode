@@ -10,25 +10,28 @@ class Solution:
         # print(reader)
         # for i in range(len(reader)):
         #     print(reader.get(i))
-        nums = []
+        # nums = []
         # nums.append(reader)
         # print(nums)
         i = 0
-        while reader.get(i) != 2147483647:
-            print(reader.get(i))
-            nums.append(reader.get(i))
-            i += 1
-        print(nums)
+        # while reader.get(i) != 2147483647:
+        #     print(reader.get(i))
+        #     nums.append(reader.get(i))
+        #     i += 1
+        # print(nums)
         left = 0
-        right = len(nums) - 1
+        right = 1
+        while reader.get(right) != 2147483647 and reader.get(right) < target:
+            left = right
+            right *= 2
         while left <= right:
             mid = (left + right) // 2
-            print(nums[mid])
-            if nums[mid] == target:
+            print(reader.get(mid))
+            if reader.get(mid) == target:
                 print("mid",mid)
                 return mid
-            if nums[mid] < target:
+            if reader.get(mid) < target:
                 left = mid + 1
-            if nums[mid] > target:
+            if reader.get(mid) > target:
                 right -= 1
         return  -1
