@@ -30,8 +30,9 @@ class Solution:
             if reader.get(mid) == target:
                 print("mid",mid)
                 return mid
-            if reader.get(mid) < target:
+            elif reader.get(mid) > target or reader.get(mid) == 2147483647:
+                right = mid - 1
+                
+            elif reader.get(mid) < target:
                 left = mid + 1
-            if reader.get(mid) > target:
-                right -= 1
         return  -1
