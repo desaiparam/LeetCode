@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/desaiparam/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/desaiparam/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/desaiparam/LeetCode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/desaiparam/LeetCode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/desaiparam/LeetCode/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/desaiparam/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/desaiparam/LeetCode/tree/master/0367-valid-perfect-square) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/desaiparam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/desaiparam/LeetCode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/desaiparam/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/desaiparam/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/desaiparam/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/desaiparam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/desaiparam/LeetCode/tree/master/2491-smallest-even-multiple) |
 ## Rolling Hash
