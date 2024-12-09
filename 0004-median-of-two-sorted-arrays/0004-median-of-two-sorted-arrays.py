@@ -1,36 +1,27 @@
 class Solution:
     def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
-        i = 0
-        j = 0
-        sets = set(nums1)
-        arr = []
-        if 0 in sets:
-            return 0
-        if len(nums1) == 1 and len(nums2) == 0:
-            return float(nums1[0])
-       
-            # print("sdfg")
-        while i < len(nums1) and j < len(nums2):
-            if nums1[i] < nums2[j]:
-                arr.append(nums1[i])
-                i += 1
+        if len(nums1) > len(nums2):
+            nums1 , nums2 = nums2 , nums1
+        n1 = len(nums1)
+        n2 = len(nums2)
+        le = 0
+        re = n1
+        while le <= re:
+            p1 = (le + re) //2
+            p2 = (n1 + n2 + 1) //2 - p1
+
+            l1 = float('-inf') if p1 == 0 else nums1[p1-1]
+            r1 = float('inf') if p1 == n1 else nums1[p1]
+
+            l2 = float('-inf') if p2 == 0 else nums2[p2 - 1]
+            r2 = float('inf') if p2 == n2 else nums2[p2]
+
+            if l2 <= r1 and l1 <= r2:
+                if (n1 + n2) % 2 != 0:
+                    return max(l1,l2)
+                return (max(l1,l2) + min(r1,r2)) /2
+            elif l1 > r2:
+                re = p1 - 1
             else:
-                arr.append(nums2[j])
-                j += 1
-        arr.extend(nums1[i:])
-        arr.extend(nums2[j:])
-        print(arr)
-        res = 0 
-        if len(arr) % 2 != 0:
-            mid = (len(arr) + 1) // 2
-            # mid = len(arr) // 2
-            # print(arr[mid]) 
-            res = arr[mid-1]
-        elif len(arr) % 2 == 0:
-            mid = len(arr) // 2
-            print(mid)
-            res = (arr[mid] + arr[mid - 1]) / 2
-            # print(arr[mid]) 
-            # res = ((len(arr)/2)+(len(arr)/2)+1 )/2
-            # if res != 
-        return res
+                le = p1 + 1
+        
