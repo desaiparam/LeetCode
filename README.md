@@ -424,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/desaiparam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/desaiparam/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
@@ -450,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/desaiparam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/desaiparam/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Linked List
 |  |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/desaiparam/LeetCode/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Number Theory
 |  |
 | ------- |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/desaiparam/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/desaiparam/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
@@ -676,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/desaiparam/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0346-moving-average-from-data-stream](https://github.com/desaiparam/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 ## Counting Sort
 |  |
@@ -712,4 +717,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/desaiparam/LeetCode/tree/master/0739-daily-temperatures) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
