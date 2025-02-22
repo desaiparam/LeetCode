@@ -747,6 +747,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/desaiparam/LeetCode/tree/master/0197-rising-temperature) |
+| [1317-monthly-transactions-i](https://github.com/desaiparam/LeetCode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/desaiparam/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [2087-confirmation-rate](https://github.com/desaiparam/LeetCode/tree/master/2087-confirmation-rate) |
 <!---LeetCode Topics End-->
