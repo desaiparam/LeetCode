@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/desaiparam/LeetCode/tree/master/2547-odd-string-difference) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/desaiparam/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/desaiparam/LeetCode/tree/master/3312-number-of-changing-keys) |
@@ -570,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/desaiparam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/desaiparam/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/desaiparam/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Backtracking
 |  |
