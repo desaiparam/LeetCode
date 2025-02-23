@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/desaiparam/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/desaiparam/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/desaiparam/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/desaiparam/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2386-min-max-game](https://github.com/desaiparam/LeetCode/tree/master/2386-min-max-game) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/desaiparam/LeetCode/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/desaiparam/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/desaiparam/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/desaiparam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
