@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/desaiparam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/desaiparam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/desaiparam/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/desaiparam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/desaiparam/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/desaiparam/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/desaiparam/LeetCode/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/desaiparam/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/desaiparam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/desaiparam/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/desaiparam/LeetCode/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/desaiparam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/desaiparam/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/desaiparam/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -671,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/desaiparam/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/desaiparam/LeetCode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/desaiparam/LeetCode/tree/master/1127-last-stone-weight) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/desaiparam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Number Theory
 |  |
 | ------- |
