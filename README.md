@@ -766,4 +766,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/desaiparam/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 | [2057-count-salary-categories](https://github.com/desaiparam/LeetCode/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/desaiparam/LeetCode/tree/master/2087-confirmation-rate) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/desaiparam/LeetCode/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
