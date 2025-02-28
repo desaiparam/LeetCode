@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/desaiparam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2122-count-special-quadruplets](https://github.com/desaiparam/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2138-sum-of-beauty-in-the-array](https://github.com/desaiparam/LeetCode/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2181-smallest-index-with-equal-value](https://github.com/desaiparam/LeetCode/tree/master/2181-smallest-index-with-equal-value) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/desaiparam/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
