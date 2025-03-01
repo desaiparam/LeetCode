@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Memoization
 |  |
 | ------- |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/desaiparam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/desaiparam/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -575,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/desaiparam/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/desaiparam/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/desaiparam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/desaiparam/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
