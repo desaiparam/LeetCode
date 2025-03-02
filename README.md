@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/desaiparam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaiparam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/desaiparam/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/desaiparam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/desaiparam/LeetCode/tree/master/0286-walls-and-gates) |
 | [0322-coin-change](https://github.com/desaiparam/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [0753-open-the-lock](https://github.com/desaiparam/LeetCode/tree/master/0753-open-the-lock) |
 | [2121-find-if-path-exists-in-graph](https://github.com/desaiparam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bit Manipulation
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/desaiparam/LeetCode/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [1386-shift-2d-grid](https://github.com/desaiparam/LeetCode/tree/master/1386-shift-2d-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/desaiparam/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
