@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/desaiparam/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/desaiparam/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1386-shift-2d-grid](https://github.com/desaiparam/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/desaiparam/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/desaiparam/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/desaiparam/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/desaiparam/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1123-single-row-keyboard](https://github.com/desaiparam/LeetCode/tree/master/1123-single-row-keyboard) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/desaiparam/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/desaiparam/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/desaiparam/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1722-throne-inheritance](https://github.com/desaiparam/LeetCode/tree/master/1722-throne-inheritance) |
@@ -622,6 +624,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1119-robot-bounded-in-circle](https://github.com/desaiparam/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/desaiparam/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
 | [1386-shift-2d-grid](https://github.com/desaiparam/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/desaiparam/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/desaiparam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2386-min-max-game](https://github.com/desaiparam/LeetCode/tree/master/2386-min-max-game) |
@@ -647,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [1386-shift-2d-grid](https://github.com/desaiparam/LeetCode/tree/master/1386-shift-2d-grid) |
+| [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/desaiparam/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/desaiparam/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/desaiparam/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
