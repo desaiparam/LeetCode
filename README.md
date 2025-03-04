@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/desaiparam/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2406-decode-the-message](https://github.com/desaiparam/LeetCode/tree/master/2406-decode-the-message) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/desaiparam/LeetCode/tree/master/2547-odd-string-difference) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/desaiparam/LeetCode/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2122-count-special-quadruplets](https://github.com/desaiparam/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2406-decode-the-message](https://github.com/desaiparam/LeetCode/tree/master/2406-decode-the-message) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/desaiparam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/desaiparam/LeetCode/tree/master/2547-odd-string-difference) |
