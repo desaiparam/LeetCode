@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/desaiparam/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/desaiparam/LeetCode/tree/master/0482-license-key-formatting) |
+| [0567-permutation-in-string](https://github.com/desaiparam/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaiparam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0696-count-binary-substrings](https://github.com/desaiparam/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/desaiparam/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/desaiparam/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0454-4sum-ii](https://github.com/desaiparam/LeetCode/tree/master/0454-4sum-ii) |
+| [0567-permutation-in-string](https://github.com/desaiparam/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaiparam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/desaiparam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/desaiparam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0392-is-subsequence) |
+| [0567-permutation-in-string](https://github.com/desaiparam/LeetCode/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/desaiparam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/desaiparam/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/desaiparam/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -581,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/desaiparam/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/desaiparam/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0567-permutation-in-string](https://github.com/desaiparam/LeetCode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/desaiparam/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/desaiparam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
