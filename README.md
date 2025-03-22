@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
+| [0850-insert-into-a-sorted-circular-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 | [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
