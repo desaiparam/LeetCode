@@ -8,39 +8,15 @@
 class Solution:
     def inorderSuccessor(self, root: TreeNode, p: TreeNode) -> Optional[TreeNode]:
         inorderList = []
-        findItem = 0
-        def inorder(root,count):
+        def inorder(root):
             if not root:
                 return None
-            # if root.val == p.val: 
-            #     inorderList.append(root.val)
-            #     # findItem = count
-            #     return count
-            #     # continue
-            left = inorder(root.left,count+1)
+            left = inorder(root.left)
             inorderList.append(root)
-            right = inorder(root.right,count+1)
+            right = inorder(root.right)
             return inorderList
-        inorder(root,0)
-        # print(inorderList)
-        # print(findItem)
-        ans = 0
-        # for i in inorderList:
-        #     if i == p.val:
-        #         print(i+1)
-        #         ans = i+1
-        # return ans
+        inorder(root)
         for i in range(len(inorderList)-1):
             if inorderList[i] == p:
                 return inorderList[i+1]
         return None
-                # return ans 
-        # for index, value in enumerate(inorderList):
-        #     if value == p.val:  # Compare the value of TreeNode p with the value in the list
-        #         ans = index + 1  # Store the position in ans (1-based index)
-        #         return ans
-
-            
-
-
-        
