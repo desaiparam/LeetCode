@@ -28,21 +28,38 @@ class Solution:
 
         #Solution 3 using sets TC O(n) SC O(1)
         # sets = {}
-        sets = defaultdict(int)
+        # sets = defaultdict(int)
         # if len(nums) <= 1:
         #     return nums
-        for i in range(len(nums)):
-            if nums[i] in sets:
-                sets[nums[i]] += 1
-            else:
-                sets[nums[i]] = 1
-        for i in range(len(nums)):
-            if i < sets[0]:
-                nums[i] = 0
-            elif i < sets[1] + sets[0]:
-                nums[i] = 1
-            else:
-                nums[i] = 2
+        # for i in range(len(nums)):
+        #     if nums[i] in sets:
+        #         sets[nums[i]] += 1
+        #     else:
+        #         sets[nums[i]] = 1
+        # for i in range(len(nums)):
+        #     if i < sets[0]:
+        #         nums[i] = 0
+        #     elif i < sets[1] + sets[0]:
+        #         nums[i] = 1
+        #     else:
+        #         nums[i] = 2
+        #Solution 4 Dutch National Flag Alogrith
+        low = 0
+        mid = 0
+        high = len(nums) - 1
+        while mid <= high:
+            if nums[mid] == 0:
+                nums[low],nums[mid] = nums[mid],nums[low]
+                mid += 1
+                low += 1
+            elif nums[mid] == 1:
+                # low += 1
+                mid += 1
+            elif nums[mid] == 2:
+                nums[high],nums[mid] = nums[mid],nums[high]
+                high -= 1
+                # mid += 1
+        
 
 
 
