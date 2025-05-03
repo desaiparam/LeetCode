@@ -1,16 +1,16 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        hashmap = set(nums)
-        # print(hashmap)
-        counter = 0
-        for i in hashmap:
-           if i - 1 not in hashmap:
-                length = 1
-                while length + i in hashmap:
-                    # print(i+length)
-                    length += 1
-                counter = max(counter,length)
-        
-        return counter
-                
+        nums.sort()
+        longest = 0
+        lastSmaller = float('-inf')
+        current = 1
+        for i in range(len(nums)):
+            if nums[i]- 1 == lastSmaller:
+                current += 1
+                lastSmaller = nums[i]
+            elif nums[i] != lastSmaller:
+                current = 1
+                lastSmaller = nums[i]
+            longest = max(current,longest)
+        return longest
         
