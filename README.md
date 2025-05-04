@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/desaiparam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/desaiparam/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/desaiparam/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/desaiparam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/desaiparam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/desaiparam/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/desaiparam/LeetCode/tree/master/0078-subsets) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/desaiparam/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/desaiparam/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/desaiparam/LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/desaiparam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/desaiparam/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/desaiparam/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/desaiparam/LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/desaiparam/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/desaiparam/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/desaiparam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/desaiparam/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/desaiparam/LeetCode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/desaiparam/LeetCode/tree/master/0200-number-of-islands) |
