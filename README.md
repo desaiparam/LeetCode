@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/desaiparam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/desaiparam/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/desaiparam/LeetCode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/desaiparam/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/desaiparam/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/desaiparam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/desaiparam/LeetCode/tree/master/0054-spiral-matrix) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/desaiparam/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/desaiparam/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/desaiparam/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/desaiparam/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/desaiparam/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/desaiparam/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/desaiparam/LeetCode/tree/master/0067-add-binary) |
@@ -736,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/desaiparam/LeetCode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/desaiparam/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/desaiparam/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/desaiparam/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/desaiparam/LeetCode/tree/master/0074-search-a-2d-matrix) |
