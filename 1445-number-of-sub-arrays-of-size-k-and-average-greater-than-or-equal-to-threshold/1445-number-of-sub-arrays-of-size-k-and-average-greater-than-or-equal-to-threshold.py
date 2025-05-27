@@ -1,5 +1,6 @@
 class Solution:
     def numOfSubarrays(self, arr: List[int], k: int, threshold: int) -> int:
+        #Optimized O(N)
         count = 0
         window_sum = sum(arr[:k])
         if window_sum //k >= threshold:
@@ -9,7 +10,7 @@ class Solution:
             if window_sum //k >= threshold:
                 count += 1
 
-        #Brute Force O(n^2)
+        #Brute Force O(n*k)
         # for i in range(len(arr)-k+1):
         #     current_sum = 0
         #     for j in range(k):
