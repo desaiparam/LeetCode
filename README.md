@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2547-odd-string-difference](https://github.com/desaiparam/LeetCode/tree/master/2547-odd-string-difference) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/desaiparam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2664-maximize-greatness-of-an-array](https://github.com/desaiparam/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/desaiparam/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/desaiparam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/desaiparam/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
@@ -743,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2132-convert-1d-array-into-2d-array](https://github.com/desaiparam/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/desaiparam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2386-min-max-game](https://github.com/desaiparam/LeetCode/tree/master/2386-min-max-game) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/desaiparam/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Prefix Sum
 |  |
@@ -814,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1126-minimum-cost-to-connect-sticks](https://github.com/desaiparam/LeetCode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/desaiparam/LeetCode/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/desaiparam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/desaiparam/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Number Theory
 |  |
 | ------- |
