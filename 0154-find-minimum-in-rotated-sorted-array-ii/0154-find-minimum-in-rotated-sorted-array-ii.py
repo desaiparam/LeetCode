@@ -11,7 +11,7 @@ class Solution:
                 high -= 1
                 continue
             if nums[mid] >= nums[low]:
-                ans = min(ans,nums[low])
+                # ans = min(ans,nums[low])
                 low = mid + 1
             else:
                 ans = min(ans,nums[mid])
