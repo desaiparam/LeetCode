@@ -20,7 +20,9 @@ class Solution:
                 prevNum = num
             res = max(res,num-prevNum+1)
             if node.left:
+                # this goes and adds every layer for the left side 
                 q.append([node.left,num*2,level+1])
             if node.right:
+                # this goes and adds every layer for the left side
                 q.append([node.right,num * 2 + 1,level+1])
         return res
