@@ -16,6 +16,9 @@ class Solution:
             #                     q.append(ne)
             #                     vis[ne] = True
             # return count
+
+
+            #Solution 2 DFS TC:O(N+2E) SC:O(N)
             vis = [False] * len(isConnected)
             def dfs(root):
                 vis[root] = True
