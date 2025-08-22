@@ -1,26 +1,35 @@
 class MyHashMap:
 
     def __init__(self):
-        self.maping = []
-
+        self.bucket = [None] * 1000
+        
+    def hash1(self,key:int):
+        return key%1000
+    def hash2(self,key:int):
+        return key//1000
     def put(self, key: int, value: int) -> None:
-        for i in self.maping:
-            if i[0] == key:
-                i[1] = value
-                return
-        self.maping.append([key, value])
-
+        i = self.hash1(key)
+        j = self.hash2(key)
+        if self.bucket[i] is None:
+            self.bucket[i] = [None] * 1001
+        self.bucket[i][j] = value
     def get(self, key: int) -> int:
-        for i in self.maping:
-            if i[0] == key:
-                return i[1]
+        i = self.hash1(key)
+        j = self.hash2(key)
+        if self.bucket[i] is not None:
+            if self.bucket[i][j]is not None:
+                return self.bucket[i][j]
         return -1
-       
+
     def remove(self, key: int) -> None:
-        for i in self.maping:
-            if i[0] == key:
-                self.maping.remove(i)
-                return
+        i = self.hash1(key)
+        j = self.hash2(key)
+        if self.bucket[i] is not None:
+            if self.bucket[i][j] is not None:
+                self.bucket[i][j] = None
+        else:
+            return 
+
 
 # Your MyHashMap object will be instantiated and called as such:
 # obj = MyHashMap()
