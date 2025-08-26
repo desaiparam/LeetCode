@@ -3,15 +3,17 @@ class Solution:
         word = s.split()
         if len(pattern) != len(word):
             return False
-        pW = {}
-        wP = {}
-
-        for p,w in zip(pattern,word):
-            if pW.get(p) and pW[p] != w:
-                return False
-            if wP.get(w) and wP[w] != p:
-                return False
-            wP[w] = p
-            pW[p] = w
+        pMap = {}
+        wMap = {}
+        print("word",word)
+        for i in range(len(pattern)):
+            if pattern[i] in pMap:
+                if pMap[pattern[i]] != word[i]:
+                    return False
+            pMap[pattern[i]] = word[i]
+            if word[i] in wMap:
+                if wMap[word[i]] != pattern[i]:
+                    return False
+            wMap[word[i]] = pattern[i]
         return True
         
