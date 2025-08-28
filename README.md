@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/desaiparam/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/desaiparam/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/desaiparam/LeetCode/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/desaiparam/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/desaiparam/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/desaiparam/LeetCode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/desaiparam/LeetCode/tree/master/0069-sqrtx) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/desaiparam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/desaiparam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/desaiparam/LeetCode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/desaiparam/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/desaiparam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/desaiparam/LeetCode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/desaiparam/LeetCode/tree/master/0118-pascals-triangle) |
@@ -1038,4 +1040,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/desaiparam/LeetCode/tree/master/0948-sort-an-array) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/desaiparam/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
