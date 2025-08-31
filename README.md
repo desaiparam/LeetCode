@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/desaiparam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2547-odd-string-difference](https://github.com/desaiparam/LeetCode/tree/master/2547-odd-string-difference) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/desaiparam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/desaiparam/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2664-maximize-greatness-of-an-array](https://github.com/desaiparam/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/desaiparam/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/desaiparam/LeetCode/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/desaiparam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2547-odd-string-difference](https://github.com/desaiparam/LeetCode/tree/master/2547-odd-string-difference) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/desaiparam/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/desaiparam/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/desaiparam/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -790,6 +792,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/desaiparam/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/desaiparam/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/desaiparam/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 ## Greedy
 |  |
 | ------- |
