@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/desaiparam/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/desaiparam/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/desaiparam/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1722-throne-inheritance](https://github.com/desaiparam/LeetCode/tree/master/1722-throne-inheritance) |
 | [2121-find-if-path-exists-in-graph](https://github.com/desaiparam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -735,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1229-shortest-path-with-alternating-colors](https://github.com/desaiparam/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/desaiparam/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/desaiparam/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/desaiparam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Bit Manipulation
 |  |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/desaiparam/LeetCode/tree/master/1039-find-the-town-judge) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/desaiparam/LeetCode/tree/master/1229-shortest-path-with-alternating-colors) |
+| [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/desaiparam/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2121-find-if-path-exists-in-graph](https://github.com/desaiparam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
