@@ -5,6 +5,7 @@ class Solution:
         C = len(maze[0])
         visited = [[False]*C for _ in range(R)]
         q = deque([(entR,entC,0)])
+        visited[entR][entC] = True
         directions = [(1,0),(-1,0),(0,1),(0,-1)]
         while q:
             # print(q)
