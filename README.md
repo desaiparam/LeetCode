@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/desaiparam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/desaiparam/LeetCode/tree/master/0542-01-matrix) |
 | [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaiparam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/desaiparam/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0333-largest-bst-subtree](https://github.com/desaiparam/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0392-is-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0392-is-subsequence) |
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
+| [0542-01-matrix](https://github.com/desaiparam/LeetCode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/desaiparam/LeetCode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Memoization
@@ -732,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/desaiparam/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/desaiparam/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
+| [0542-01-matrix](https://github.com/desaiparam/LeetCode/tree/master/0542-01-matrix) |
 | [0723-candy-crush](https://github.com/desaiparam/LeetCode/tree/master/0723-candy-crush) |
 | [0733-flood-fill](https://github.com/desaiparam/LeetCode/tree/master/0733-flood-fill) |
 | [0971-shortest-bridge](https://github.com/desaiparam/LeetCode/tree/master/0971-shortest-bridge) |
