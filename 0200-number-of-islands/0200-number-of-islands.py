@@ -1,18 +1,25 @@
 class Solution:
     def numIslands(self, grid: List[List[str]]) -> int:
-        count = 0
-        def dfs(i,j):
-            if 0 <= i < len(grid) and 0 <= j < len(grid[0]) and grid[i][j] == "1":
-                grid[i][j] = "0"
-                dfs(i+1,j)
-                dfs(i,j+1)
-                dfs(i-1,j)
-                dfs(i,j-1)
+        n = len(grid)
+        m = len(grid[0])
+        visited = [[False]*m for _ in range(n)]
+        directions = [(0,1),(1,0),(0,-1),(-1,0)]
+        q = deque()
+        number = 0
+        for i in range(n):
+            for j in range(m):
+                if grid[i][j] == '1' and not visited[i][j]:
+                    number += 1
+                    q.append((i,j))
+                    while q:
+                        r,c  = q.popleft()
+                        for dr,dc in directions:
+                            nr = r + dr
+                            nc = c + dc
+                            if 0 <= nr <n and 0 <= nc < m and grid[nr][nc] == '1' and not visited[nr][nc]:
+                                visited[nr][nc] = True
+                                q.append((nr,nc))
+        return number
 
-        for i in range(len(grid)):
-            for j in range(len(grid[0])):
-                if grid[i][j] == "1":
-                    dfs(i,j)
-                    count+=1
-        return count
+
         
