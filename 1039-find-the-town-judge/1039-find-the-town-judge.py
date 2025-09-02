@@ -1,13 +1,12 @@
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
-        if n == 1:
-            return n
-        x = {a for a,_ in trust}
-        c = Counter(b for _,b in trust)
-        for a , b in c.items():
-            if b == n-1 and a not in x:
-                return a
+        in_degree = [0] * (n+1)
+        out_degree = [0] * (n+1)
+        for i,j in trust:
+            in_degree[j] += 1
+            out_degree[i] += 1
+        for i in range(1,n+1):
+            if in_degree[i] == n -1 and out_degree[i] == 0:
+                return i
         return -1
-    
-
         
