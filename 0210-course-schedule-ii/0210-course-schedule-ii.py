@@ -14,5 +14,5 @@ class Solution:
                 in_degree[i] -= 1
                 if in_degree[i] == 0:
                     q.append(i)
-        print(ans)
+        # print(ans)
         return ans if len(ans) == numCourses else []
