@@ -618,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/desaiparam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/desaiparam/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/desaiparam/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/desaiparam/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -736,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/desaiparam/LeetCode/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/desaiparam/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/desaiparam/LeetCode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/desaiparam/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/desaiparam/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0279-perfect-squares](https://github.com/desaiparam/LeetCode/tree/master/0279-perfect-squares) |
@@ -952,6 +954,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/desaiparam/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/desaiparam/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
@@ -966,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/desaiparam/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
 ## Union Find
 |  |
