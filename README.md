@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/desaiparam/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0523-continuous-subarray-sum](https://github.com/desaiparam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/desaiparam/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/desaiparam/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [0543-diameter-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/desaiparam/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0322-coin-change](https://github.com/desaiparam/LeetCode/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/desaiparam/LeetCode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
@@ -923,6 +926,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0286-walls-and-gates](https://github.com/desaiparam/LeetCode/tree/master/0286-walls-and-gates) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/desaiparam/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/desaiparam/LeetCode/tree/master/0695-max-area-of-island) |
@@ -960,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/desaiparam/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/desaiparam/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/desaiparam/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/desaiparam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -993,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/desaiparam/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
 | [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0658-find-k-closest-elements](https://github.com/desaiparam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/desaiparam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1144,5 +1150,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/desaiparam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
