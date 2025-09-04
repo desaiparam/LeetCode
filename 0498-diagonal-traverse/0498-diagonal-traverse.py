@@ -2,19 +2,32 @@ class Solution:
     def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
         n = len(mat)
         m = len(mat[0])
-        ans = []
-        d = collections.defaultdict(list)
-        for i in range(n):
-            for j in range(m):
-                sums = i + j
-                d[sums].append(mat[i][j])
-        print(d)
-        for i in d.items():
-            if i[0] % 2 == 0:
-                print(i[1][::-1])
-                ans.extend(i[1][::-1])
+        res = [0]*(n*m)
+        row = 0
+        col = 0
+        directions = True
+        for i in range(n*m):
+            res[i] = mat[row][col]
+            if directions:
+                if row == 0 and col != m -1:
+                    col += 1
+                    directions = False
+                elif col == m-1:
+                    row += 1
+                    directions = False
+                else:
+                    row -= 1
+                    col += 1
             else:
-                print(i[1])
-                ans.extend(i[1])
-        return ans
+                if col == 0 and row != n -1:
+                    row += 1
+                    directions = True
+                elif row == n-1:
+                    col += 1
+                    directions = True
+                else:
+                    row += 1
+                    col -= 1
+                    
+        return res
         
