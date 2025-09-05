@@ -7,23 +7,18 @@
 class Solution:
     def zigzagLevelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
         res = []
-        # this is to push the root inside the queue
-        que = deque([root] if root else [])
-        while que:
-            level = []
-            for i in range(len(que)):
-                node = que.popleft()
-                level.append(node.val)
-                if node.left:
-                    que.append(node.left)
-                if node.right:
-                    que.append(node.right)
-            # this the imp logic for the zigzag to work this checks the level of the tree and if even reverse the list
-            level = list(reversed(level)) if len(res) % 2 else level
-            res.append(level)
+        def helper(root,level):
+            if not root:
+                return
+            if len(res) == level:
+                res.append([])
+            res[level].append(root.val)
+            helper(root.left,level+1)
+            helper(root.right,level+1)
+        helper(root,0)
+        for i in range(len(res)):
+            if i % 2 != 0:
+                res[i].reverse()
         return res
 
-
-
-        
         
