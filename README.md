@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/desaiparam/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/desaiparam/LeetCode/tree/master/0242-valid-anagram) |
 | [0249-group-shifted-strings](https://github.com/desaiparam/LeetCode/tree/master/0249-group-shifted-strings) |
+| [0257-binary-tree-paths](https://github.com/desaiparam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0288-unique-word-abbreviation](https://github.com/desaiparam/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/desaiparam/LeetCode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/desaiparam/LeetCode/tree/master/0344-reverse-string) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/desaiparam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0285-inorder-successor-in-bst](https://github.com/desaiparam/LeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/desaiparam/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/desaiparam/LeetCode/tree/master/0333-largest-bst-subtree) |
@@ -634,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/desaiparam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/desaiparam/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/desaiparam/LeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/desaiparam/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -686,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/desaiparam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0285-inorder-successor-in-bst](https://github.com/desaiparam/LeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/desaiparam/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/desaiparam/LeetCode/tree/master/0333-largest-bst-subtree) |
@@ -886,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/desaiparam/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/desaiparam/LeetCode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/desaiparam/LeetCode/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/desaiparam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0813-all-paths-from-source-to-target](https://github.com/desaiparam/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
 ## Hash Function
 |  |
