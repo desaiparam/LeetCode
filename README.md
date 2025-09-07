@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/desaiparam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/desaiparam/LeetCode/tree/master/0394-decode-string) |
+| [0445-add-two-numbers-ii](https://github.com/desaiparam/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/desaiparam/LeetCode/tree/master/0739-daily-temperatures) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/desaiparam/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/desaiparam/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/desaiparam/LeetCode/tree/master/0412-fizz-buzz) |
+| [0445-add-two-numbers-ii](https://github.com/desaiparam/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/desaiparam/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/desaiparam/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/desaiparam/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
@@ -741,6 +743,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/desaiparam/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/desaiparam/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
