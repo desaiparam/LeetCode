@@ -1,3 +1,4 @@
+#This is using some thing named OrderedDict in built python dict with changes to O(1)
 class LRUCache:
 
     def __init__(self, capacity: int):
