@@ -1,35 +1,30 @@
 class ValidWordAbbr:
 
     def __init__(self, dictionary: List[str]):
-        self.mapping = {}
+        self.hashmap = {}
         self.dict = dictionary
-        # print(self.dict)
-        # print(dictionary)
-        for i in dictionary:
+        for i in self.dict:
             if len(i) <= 2:
-                self.mapping[i] = i
+                self.hashmap[i] = i
             else:
-                ab = i[0] + str(len(i[1:-1])) + i[-1]
-                if ab not in self.mapping:
-                    self.mapping[ab] = i
+                abberivation = i[0] + str(len(i[1:-1])) + i[-1]
+                if abberivation not in self.hashmap:
+                    self.hashmap[abberivation] = i 
                 else:
-                    self.mapping[ab] = None
+                    if self.hashmap[abberivation] != i:
+                        self.hashmap[abberivation] = None 
 
     def isUnique(self, word: str) -> bool:
+        newWord = word[0] + str(len(word[1:-1])) + word[-1]
         # print(word)
-        # pass
-        # for i in word
-        neeW = word[0] + str(len(word[1:-1])) + word[-1]
-        # print(neeW)
-        # print(self.mapping)
-        # print(word)
-
-        if neeW not in self.mapping:
+        # print(self.hashmap)
+        # print(newWord)
+        if newWord not in self.hashmap:
             return True
-        elif self.mapping.get(neeW) == word:
+        elif self.hashmap.get(newWord) == word:
             return True
         return False
-
+        
 
 
 # Your ValidWordAbbr object will be instantiated and called as such:
