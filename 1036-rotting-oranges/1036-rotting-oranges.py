@@ -1,8 +1,11 @@
 class Solution:
     def orangesRotting(self, grid: List[List[int]]) -> int:
+        n = len(grid)
+        m = len(grid[0])
         mint = 0
         vis = [[False] * len(grid[0]) for _ in range(len(grid))]
-        startPoint = []
+        startPoint = [] 
+        dirc = [(1,0),(0,1),(0,-1),(-1,0)]
         for i in range(len(grid)):
             for j in range(len(grid[0])):
                 if grid[i][j] == 2:
@@ -13,13 +16,14 @@ class Solution:
             foundNew = False
             for _ in range(len(q)):
                 i,j = q.popleft()
-                for dirX , dirY in [(1,0),(0,1),(0,-1),(-1,0)]:
-                    ni ,nj = i + dirX,j+dirY
-                    if 0<= ni <len(grid) and 0 <= nj < len(grid[0]):
-                        if grid[ni][nj] == 1 and not vis[ni][nj]:
-                            grid[ni][nj] = 2
-                            vis[ni][nj] = True
-                            q.append((ni,nj))
+                for dr , dc in dirc:
+                    nr = i + dr
+                    nc = j + dc
+                    if 0<= nr < n and 0 <= nc < m:
+                        if grid[nr][nc] == 1 and not vis[nr][nc]:
+                            grid[nr][nc] = 2
+                            vis[nr][nc] = True
+                            q.append((nr,nc))
                             foundNew  = True
             if foundNew:
                 mint += 1  
