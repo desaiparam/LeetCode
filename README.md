@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/desaiparam/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/desaiparam/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1983-maximum-population-year](https://github.com/desaiparam/LeetCode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/desaiparam/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/desaiparam/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-throne-inheritance](https://github.com/desaiparam/LeetCode/tree/master/1722-throne-inheritance) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/desaiparam/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2122-count-special-quadruplets](https://github.com/desaiparam/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-count-good-nodes-in-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/desaiparam/LeetCode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1722-throne-inheritance](https://github.com/desaiparam/LeetCode/tree/master/1722-throne-inheritance) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/desaiparam/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 | [2121-find-if-path-exists-in-graph](https://github.com/desaiparam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
