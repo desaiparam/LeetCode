@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0883-car-fleet](https://github.com/desaiparam/LeetCode/tree/master/0883-car-fleet) |
+| [1582-design-browser-history](https://github.com/desaiparam/LeetCode/tree/master/1582-design-browser-history) |
 ## Array
 |  |
 | ------- |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/desaiparam/LeetCode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/desaiparam/LeetCode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1582-design-browser-history](https://github.com/desaiparam/LeetCode/tree/master/1582-design-browser-history) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/desaiparam/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/desaiparam/LeetCode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0850-insert-into-a-sorted-circular-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0850-insert-into-a-sorted-circular-linked-list) |
 | [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/desaiparam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/desaiparam/LeetCode/tree/master/1582-design-browser-history) |
 ## Recursion
 |  |
 | ------- |
@@ -1111,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/desaiparam/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1582-design-browser-history](https://github.com/desaiparam/LeetCode/tree/master/1582-design-browser-history) |
 | [1722-throne-inheritance](https://github.com/desaiparam/LeetCode/tree/master/1722-throne-inheritance) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 ## Data Stream
@@ -1120,6 +1124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0346-moving-average-from-data-stream](https://github.com/desaiparam/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1582-design-browser-history](https://github.com/desaiparam/LeetCode/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 ## Counting Sort
 |  |
@@ -1200,6 +1205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/desaiparam/LeetCode/tree/master/0146-lru-cache) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/desaiparam/LeetCode/tree/master/1582-design-browser-history) |
 ## Iterator
 |  |
 | ------- |
