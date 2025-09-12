@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/desaiparam/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/desaiparam/LeetCode/tree/master/0753-open-the-lock) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/desaiparam/LeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0782-jewels-and-stones](https://github.com/desaiparam/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/desaiparam/LeetCode/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
@@ -621,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/desaiparam/LeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/desaiparam/LeetCode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/desaiparam/LeetCode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/desaiparam/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/desaiparam/LeetCode/tree/master/0733-flood-fill) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/desaiparam/LeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0801-is-graph-bipartite](https://github.com/desaiparam/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/desaiparam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -810,6 +813,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/desaiparam/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/desaiparam/LeetCode/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/desaiparam/LeetCode/tree/master/0753-open-the-lock) |
+| [0765-serialize-and-deserialize-n-ary-tree](https://github.com/desaiparam/LeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
 | [0801-is-graph-bipartite](https://github.com/desaiparam/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/desaiparam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/desaiparam/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
