@@ -1,24 +1,24 @@
 class Solution:
     def partition(self, s: str) -> List[List[str]]:
         ans = []
-        path = []
-        def helper(index,s,path,ans):
-            if index == len(s):
+        def backtrack(path,idx):
+            if len(s) == idx:
                 ans.append(path[:])
                 return 
-            for i in range(index,len(s)):
-                if isPalindrom(s,index,i):
-                    path.append(s[index:i+1])
-                    helper(i+1,s,path,ans)
+            for i in range(idx,len(s)):
+                if palindrome(s,idx,i):   
+                    path.append(s[idx:i+1]) 
+                    backtrack(path,i+1)
                     path.pop()
-
-        def isPalindrom(s,start,end):
+        def palindrome(path,start,end):
             while start <= end:
                 if s[start] != s[end]:
                     return False
                 start += 1
                 end -= 1
             return True
-        helper(0,s,path,ans)
+        backtrack([],0)
         return ans
+
+
         
