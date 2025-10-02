@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0677-map-sum-pairs](https://github.com/desaiparam/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/desaiparam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/desaiparam/LeetCode/tree/master/0696-count-binary-substrings) |
+| [0720-longest-word-in-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/desaiparam/LeetCode/tree/master/0753-open-the-lock) |
 | [0765-serialize-and-deserialize-n-ary-tree](https://github.com/desaiparam/LeetCode/tree/master/0765-serialize-and-deserialize-n-ary-tree) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/desaiparam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/desaiparam/LeetCode/tree/master/0695-max-area-of-island) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/desaiparam/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0723-candy-crush](https://github.com/desaiparam/LeetCode/tree/master/0723-candy-crush) |
 | [0724-find-pivot-index](https://github.com/desaiparam/LeetCode/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/desaiparam/LeetCode/tree/master/0733-flood-fill) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/desaiparam/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/desaiparam/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/desaiparam/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0753-open-the-lock](https://github.com/desaiparam/LeetCode/tree/master/0753-open-the-lock) |
 | [0782-jewels-and-stones](https://github.com/desaiparam/LeetCode/tree/master/0782-jewels-and-stones) |
@@ -575,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/desaiparam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/desaiparam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/desaiparam/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0720-longest-word-in-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/desaiparam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0883-car-fleet](https://github.com/desaiparam/LeetCode/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/desaiparam/LeetCode/tree/master/0941-sort-array-by-parity) |
@@ -792,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/desaiparam/LeetCode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/desaiparam/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/desaiparam/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0720-longest-word-in-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/desaiparam/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Breadth-First Search
