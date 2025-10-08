@@ -4,7 +4,6 @@ class Solution:
         if len(intervals) == 0 :
             return -1
         intervals.sort(key=lambda x:x[0])
-        print(intervals)
         minHeap = []
         for start,end in intervals:
             if minHeap and start >= minHeap[0]:
