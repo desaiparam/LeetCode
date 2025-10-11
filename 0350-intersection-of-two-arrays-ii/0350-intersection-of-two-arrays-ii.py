@@ -5,6 +5,5 @@ class Solution:
             for i in nums2:
                 if i in ma and ma[i] > 0:
                     ans.append(i)
-
                     ma[i] -=1
             return ans
