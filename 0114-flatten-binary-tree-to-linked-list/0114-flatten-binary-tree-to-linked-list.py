@@ -9,16 +9,14 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        prev = None
-        def helper(root):
-            nonlocal prev
-            if root is None:
+        self.prev = None
+        def dfs(root):
+            if not root:
                 return 
-            # print(root.val)
-            helper(root.right)
-            helper(root.left)
-            root.right = prev
+            
+            dfs(root.right)
+            dfs(root.left)
+            root.right = self.prev
             root.left = None
-            prev = root
-        helper(root)
-        # return prev
+            self.prev = root
+        dfs(root)
