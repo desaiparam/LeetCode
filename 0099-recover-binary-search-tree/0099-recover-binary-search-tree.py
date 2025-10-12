@@ -24,10 +24,7 @@ class Solution:
             helper(root.right)
            
         helper(root)
-        print("before",self.first,self.sec)
-        # self.first,self.sec = self.sec,self.first
         self.first.val, self.sec.val = self.sec.val, self.first.val
-        print("after",self.first,self.sec)
         return root
                 
 
