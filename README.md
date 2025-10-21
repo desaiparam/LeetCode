@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/desaiparam/LeetCode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/desaiparam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/desaiparam/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/desaiparam/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/desaiparam/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/desaiparam/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/desaiparam/LeetCode/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/desaiparam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/desaiparam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/desaiparam/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/desaiparam/LeetCode/tree/master/0047-permutations-ii) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/desaiparam/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/desaiparam/LeetCode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/desaiparam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/desaiparam/LeetCode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/desaiparam/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/desaiparam/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/desaiparam/LeetCode/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/desaiparam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/desaiparam/LeetCode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/desaiparam/LeetCode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/desaiparam/LeetCode/tree/master/0055-jump-game) |
@@ -1213,6 +1217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/desaiparam/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/desaiparam/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/desaiparam/LeetCode/tree/master/0883-car-fleet) |
 ## Binary Search Tree
