@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/desaiparam/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/desaiparam/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1534-minimum-number-of-frogs-croaking](https://github.com/desaiparam/LeetCode/tree/master/1534-minimum-number-of-frogs-croaking) |
+| [1764-maximum-repeating-substring](https://github.com/desaiparam/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/desaiparam/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -489,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0572-subtree-of-another-tree](https://github.com/desaiparam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/desaiparam/LeetCode/tree/master/0812-rotate-string) |
+| [1764-maximum-repeating-substring](https://github.com/desaiparam/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Binary Search
 |  |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/desaiparam/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/desaiparam/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/desaiparam/LeetCode/tree/master/1236-n-th-tribonacci-number) |
+| [1764-maximum-repeating-substring](https://github.com/desaiparam/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Memoization
 |  |
