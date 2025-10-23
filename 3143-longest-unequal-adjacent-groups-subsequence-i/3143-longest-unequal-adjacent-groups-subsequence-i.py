@@ -6,8 +6,6 @@ class Solution:
             if prev == groups[i]:
                 continue
             else:
-                print(prev)
                 prev = groups[i]
                 result.append(words[i])
-            print(result)
         return result
