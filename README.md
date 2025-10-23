@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/desaiparam/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/desaiparam/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1119-robot-bounded-in-circle](https://github.com/desaiparam/LeetCode/tree/master/1119-robot-bounded-in-circle) |
+| [1236-n-th-tribonacci-number](https://github.com/desaiparam/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1274-number-of-days-between-two-dates](https://github.com/desaiparam/LeetCode/tree/master/1274-number-of-days-between-two-dates) |
 | [1370-count-number-of-nice-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/desaiparam/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -563,12 +564,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0803-cheapest-flights-within-k-stops](https://github.com/desaiparam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1025-minimum-cost-for-tickets](https://github.com/desaiparam/LeetCode/tree/master/1025-minimum-cost-for-tickets) |
 | [1121-partition-array-for-maximum-sum](https://github.com/desaiparam/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
+| [1236-n-th-tribonacci-number](https://github.com/desaiparam/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/desaiparam/LeetCode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/desaiparam/LeetCode/tree/master/0139-word-break) |
+| [1236-n-th-tribonacci-number](https://github.com/desaiparam/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 ## Sorting
 |  |
 | ------- |
