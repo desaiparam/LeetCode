@@ -1,19 +1,16 @@
 class Solution:
     def nextPermutation(self, nums: List[int]) -> None:
-        """
-        Do not return anything, modify nums in-place instead.
-        """
-        index = -1
-        for i in range(len(nums)-2,-1,-1):
+        n = len(nums)
+        idx = -1
+        for i in range(n-2,-1,-1):
             if nums[i] < nums[i+1]:
-                index = i
+                idx = i
                 break
-        if index == -1:
-            return nums.reverse()
-        for i in range(len(nums)-1,index,-1):
-            print(i)
-            if nums[i] > nums[index]:
-                nums[i],nums[index] = nums[index],nums[i]
+        if idx == -1:
+            nums.reverse()
+            return 
+        for i in range(n-1,idx,-1):
+            if nums[i] > nums[idx]:
+                nums[i],nums[idx] = nums[idx],nums[i]
                 break
-        nums[index+1:] = reversed(nums[index+1:])
-
+        nums[idx+1:] = reversed(nums[idx+1:])
