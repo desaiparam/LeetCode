@@ -1,9 +1,25 @@
 class Solution:
     def arrayPairSum(self, nums: List[int]) -> int:
-        nums.sort()
-        ans = 0
-        for i in range(0,len(nums),2):
-            # print(ans)
-            ans += min(nums[i],nums[i+1])
-        return ans
-        
+        n = len(nums)
+        hashmap = {}
+        miny = min(nums)
+        maxy = max(nums)
+        result = 0
+        flag = False
+        print(miny,maxy)
+        for num in nums:
+            hashmap[num] = hashmap.get(num, 0) + 1
+        for i in range(miny,maxy+1):
+            if i not in hashmap:
+                continue
+            if flag:
+                hashmap[i] -= 1
+            freq = hashmap[i]
+            if freq%2 == 0:
+                result += (freq//2) * i
+                flag = False
+            else:
+                result += (freq//2) * i
+                result += i
+                flag = True
+        return result
