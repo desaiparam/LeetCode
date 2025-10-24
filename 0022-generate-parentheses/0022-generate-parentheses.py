@@ -1,13 +1,15 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        res = []
-        def dfs(openP,closeP,s):
-            if openP == closeP and openP + closeP == n * 2:
-                res.append(s)
-                return
-            if openP < n:
-                dfs(openP+1,closeP,s + "(" )
-            if closeP < openP:
-                dfs(openP,closeP + 1,s+")")
-        dfs(0,0,"")
-        return res
+        q = deque([("(",1,0)])
+        result = []
+        while q:
+            prev,openCount,closeCount = q.popleft()
+            if openCount == n and closeCount == n:
+                result.append(prev)
+            if openCount < n:
+                q.append((prev+"(",openCount+1,closeCount))
+            if closeCount < openCount:
+                q.append((prev+")",openCount,closeCount+1))
+        return result
+
+        
