@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/desaiparam/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/desaiparam/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/desaiparam/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/desaiparam/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/desaiparam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Math
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2491-smallest-even-multiple](https://github.com/desaiparam/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/desaiparam/LeetCode/tree/master/2752-sum-multiples) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/desaiparam/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3568-find-the-key-of-the-numbers](https://github.com/desaiparam/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Two Pointers
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/desaiparam/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/desaiparam/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3343-count-numbers-with-unique-digits-ii](https://github.com/desaiparam/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 ## Memoization
 |  |
 | ------- |
