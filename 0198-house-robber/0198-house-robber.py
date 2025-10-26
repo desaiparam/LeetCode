@@ -1,8 +1,14 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
-        rob1, rob2 = 0, 0
-
-        for n in nums:
-            rob1,rob2 = rob2,max(rob2,rob1+n) 
-        return rob2
-        
+        n = len(nums)
+        memo = {}
+        def helper(i):
+            if i >= n:
+                return 0
+            if i in memo:
+                return memo[i]
+            take = nums[i]+helper(i+2)
+            nottake = helper(i+1)
+            memo[i] = max(take,nottake)
+            return memo[i]
+        return helper(0)
