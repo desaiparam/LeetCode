@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/desaiparam/LeetCode/tree/master/0482-license-key-formatting) |
 | [0567-permutation-in-string](https://github.com/desaiparam/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaiparam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0642-design-search-autocomplete-system](https://github.com/desaiparam/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0648-replace-words](https://github.com/desaiparam/LeetCode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/desaiparam/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/desaiparam/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/desaiparam/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/desaiparam/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
+| [0642-design-search-autocomplete-system](https://github.com/desaiparam/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0658-find-k-closest-elements](https://github.com/desaiparam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/desaiparam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/desaiparam/LeetCode/tree/master/0719-find-k-th-smallest-pair-distance) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/desaiparam/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/desaiparam/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0642-design-search-autocomplete-system](https://github.com/desaiparam/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/desaiparam/LeetCode/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/desaiparam/LeetCode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/desaiparam/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0642-design-search-autocomplete-system](https://github.com/desaiparam/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0648-replace-words](https://github.com/desaiparam/LeetCode/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/desaiparam/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/desaiparam/LeetCode/tree/master/0692-top-k-frequent-words) |
@@ -1142,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/desaiparam/LeetCode/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/desaiparam/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
+| [0642-design-search-autocomplete-system](https://github.com/desaiparam/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0658-find-k-closest-elements](https://github.com/desaiparam/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/desaiparam/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -1185,6 +1190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0379-design-phone-directory](https://github.com/desaiparam/LeetCode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/desaiparam/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0642-design-search-autocomplete-system](https://github.com/desaiparam/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0677-map-sum-pairs](https://github.com/desaiparam/LeetCode/tree/master/0677-map-sum-pairs) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
@@ -1200,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0170-two-sum-iii-data-structure-design](https://github.com/desaiparam/LeetCode/tree/master/0170-two-sum-iii-data-structure-design) |
 | [0346-moving-average-from-data-stream](https://github.com/desaiparam/LeetCode/tree/master/0346-moving-average-from-data-stream) |
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
+| [0642-design-search-autocomplete-system](https://github.com/desaiparam/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/desaiparam/LeetCode/tree/master/1582-design-browser-history) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
