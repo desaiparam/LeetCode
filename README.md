@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/desaiparam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/desaiparam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0353-design-snake-game](https://github.com/desaiparam/LeetCode/tree/master/0353-design-snake-game) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/desaiparam/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0379-design-phone-directory](https://github.com/desaiparam/LeetCode/tree/master/0379-design-phone-directory) |
 | [0380-insert-delete-getrandom-o1](https://github.com/desaiparam/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/desaiparam/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/desaiparam/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0353-design-snake-game](https://github.com/desaiparam/LeetCode/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/desaiparam/LeetCode/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0379-design-phone-directory](https://github.com/desaiparam/LeetCode/tree/master/0379-design-phone-directory) |
@@ -1024,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/desaiparam/LeetCode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/desaiparam/LeetCode/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/desaiparam/LeetCode/tree/master/0289-game-of-life) |
+| [0353-design-snake-game](https://github.com/desaiparam/LeetCode/tree/master/0353-design-snake-game) |
 | [0412-fizz-buzz](https://github.com/desaiparam/LeetCode/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0723-candy-crush](https://github.com/desaiparam/LeetCode/tree/master/0723-candy-crush) |
@@ -1186,6 +1189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0288-unique-word-abbreviation](https://github.com/desaiparam/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0341-flatten-nested-list-iterator](https://github.com/desaiparam/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/desaiparam/LeetCode/tree/master/0346-moving-average-from-data-stream) |
+| [0353-design-snake-game](https://github.com/desaiparam/LeetCode/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/desaiparam/LeetCode/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/desaiparam/LeetCode/tree/master/0359-logger-rate-limiter) |
 | [0379-design-phone-directory](https://github.com/desaiparam/LeetCode/tree/master/0379-design-phone-directory) |
@@ -1230,6 +1234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0281-zigzag-iterator](https://github.com/desaiparam/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/desaiparam/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/desaiparam/LeetCode/tree/master/0346-moving-average-from-data-stream) |
+| [0353-design-snake-game](https://github.com/desaiparam/LeetCode/tree/master/0353-design-snake-game) |
 | [0379-design-phone-directory](https://github.com/desaiparam/LeetCode/tree/master/0379-design-phone-directory) |
 | [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
