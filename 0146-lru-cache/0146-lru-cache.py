@@ -1,26 +1,53 @@
-#This is using some thing named OrderedDict in built python dict with changes to O(1)
+class Node:
+    def __init__(self,key,val):
+        self.key = key
+        self.val = val
+        self.prev = None
+        self.next = None
 class LRUCache:
 
     def __init__(self, capacity: int):
-        self.capacity = capacity
-        self.ord = OrderedDict()
+        self.size = capacity
+        self.map = {}
+        self.head = Node(-1,-1)
+        self.tail = Node(-1,-1)
+        self.head.next = self.tail
+        self.tail.prev = self.head
+
+    def remove(self,node):
+        node.prev.next = node.next
+        node.next.prev = node.prev
+        node.prev = None
+        node.next = None
         
 
+    def addToHead(self,node):
+        node.prev = self.head
+        node.next = self.head.next
+        node.next.prev = node
+        self.head.next = node
+
     def get(self, key: int) -> int:
-        if key in self.ord:
-            self.ord.move_to_end(key,last=True)
-            return self.ord[key]
+        if key in self.map:
+            node = self.map[key]
+            self.remove(node)
+            self.addToHead(node)
+            return node.val
         return -1
     def put(self, key: int, value: int) -> None:
-        if key in self.ord:
-            self.ord[key] = value
-            self.ord.move_to_end(key,last = True)
+        if key in self.map:
+            node = self.map[key]
+            node.val = value
+            self.remove(node)
+            self.addToHead(node)
         else:
-            self.ord[key] = value
-            if len(self.ord) > self.capacity:
-                self.ord.popitem(last = False)
-        
-        
+            if len(self.map) == self.size:
+                last = self.tail.prev
+                self.remove(last)
+                del self.map[last.key]
+            newNode = Node(key,value)
+            self.addToHead(newNode)
+            self.map[key] = newNode
         
 
 
