@@ -1,5 +1,6 @@
 class Solution:
     def convert(self, s: str, numRows: int) -> str:
+        #TC O(N) SC O(1)
         n = len(s)
         if numRows == 1:
             return s
