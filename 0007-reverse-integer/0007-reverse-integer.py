@@ -1,15 +1,14 @@
 class Solution:
     def reverse(self, x: int) -> int:
-       
-        new_i = []
-        reve =0
+        newX = str(x)
+        res = ""
         if x < 0:
-            new_i.append('-') 
-            x = abs(x) 
-        reve = int(''.join(reversed(str(x))))
-        if '-' in new_i:
-            reve = -reve
-        if reve >2**31-1 or reve<-(2**31):
-            return 0
+            res += "-"
         
-        return reve
+        for i in range(len(newX)-1,-1,-1):
+            if newX[i] != "-":
+                res+= newX[i]
+        return int(res) if -2147483648<=int(res)<=2147483647  else 0
+
+        
+        
