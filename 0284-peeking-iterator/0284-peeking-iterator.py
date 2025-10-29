@@ -24,6 +24,8 @@ class PeekingIterator:
         self.iterator = iterator
         if iterator.hasNext():
               self.nextElement = iterator.next()
+        else:
+            self.nextElement = None
         
         
 
@@ -32,15 +34,15 @@ class PeekingIterator:
 
     def next(self):
         result = self.nextElement
-        if self.hasNext():
+        if self.iterator.hasNext():
               self.nextElement = self.iterator.next()
+        else:
+            self.nextElement = None
         return result
 
     def hasNext(self):
         print(self.nextElement)
-        if self.nextElement != -100000:
-            return True
-        return False 
+        return self.nextElement != None 
         
 
 # Your PeekingIterator object will be instantiated and called as such:
