@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/desaiparam/LeetCode/tree/master/0274-h-index) |
 | [0281-zigzag-iterator](https://github.com/desaiparam/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/desaiparam/LeetCode/tree/master/0283-move-zeroes) |
+| [0284-peeking-iterator](https://github.com/desaiparam/LeetCode/tree/master/0284-peeking-iterator) |
 | [0286-walls-and-gates](https://github.com/desaiparam/LeetCode/tree/master/0286-walls-and-gates) |
 | [0287-find-the-duplicate-number](https://github.com/desaiparam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0288-unique-word-abbreviation](https://github.com/desaiparam/LeetCode/tree/master/0288-unique-word-abbreviation) |
@@ -1202,6 +1203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/desaiparam/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0232-implement-queue-using-stacks](https://github.com/desaiparam/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0281-zigzag-iterator](https://github.com/desaiparam/LeetCode/tree/master/0281-zigzag-iterator) |
+| [0284-peeking-iterator](https://github.com/desaiparam/LeetCode/tree/master/0284-peeking-iterator) |
 | [0288-unique-word-abbreviation](https://github.com/desaiparam/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0341-flatten-nested-list-iterator](https://github.com/desaiparam/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 | [0346-moving-average-from-data-stream](https://github.com/desaiparam/LeetCode/tree/master/0346-moving-average-from-data-stream) |
@@ -1322,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/desaiparam/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0281-zigzag-iterator](https://github.com/desaiparam/LeetCode/tree/master/0281-zigzag-iterator) |
+| [0284-peeking-iterator](https://github.com/desaiparam/LeetCode/tree/master/0284-peeking-iterator) |
 | [0341-flatten-nested-list-iterator](https://github.com/desaiparam/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
 ## Radix Sort
 |  |
