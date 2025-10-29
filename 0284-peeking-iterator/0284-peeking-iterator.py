@@ -24,8 +24,6 @@ class PeekingIterator:
         self.iterator = iterator
         if iterator.hasNext():
               self.nextElement = iterator.next()
-        else:
-            self.nextElement = None
         
         
 
@@ -36,8 +34,6 @@ class PeekingIterator:
         result = self.nextElement
         if self.hasNext():
               self.nextElement = self.iterator.next()
-        else:
-            self.nextElement = None
         return result
 
     def hasNext(self):
