@@ -3,6 +3,7 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
+                #TC O(9^N^2)where even n will be 9 so if i have a contant 9*9 i can say O(1) as input will not affect the time complexity
         seenSmallerMatrix = defaultdict(set)
         seenRow = defaultdict(set)
         seenCol = defaultdict(set)
