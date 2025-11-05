@@ -1,29 +1,21 @@
 class Solution:
     def isIsomorphic(self, s: str, t: str) -> bool:
-        ds = {}
-        dt = {}
-        # for i in s:
-        #     if i in ds:
-        #         ds[i] +=1
-        #     else:
-        #         ds[i] = 1
-        # print("ds",ds)
-        # for i in t:
-        #     if i in dt:
-        #         dt[i] +=1
-        #     else:
-        #         dt[i] = 1
-        # print("dt",dt)
-        
-        # return Counter(ds.values()) == Counter(dt.values())
+        sMap = {}
+        tMap = {}
+
         for i in range(len(s)):
-            if s[i] not in ds:
-                ds[s[i]] = i
-            if t[i] not in dt:
-                dt[t[i]] = i
-            # print(ds)
-            # print(dt)
-            if ds[s[i]] != dt[t[i]]:
-                return False
+            if s[i] in sMap:
+                if sMap[s[i]] != t[i]:
+                    return False
+            sMap[s[i]]=t[i]
+            if t[i] in tMap:
+                if tMap[t[i]] != s[i]:
+                    return False
+            tMap[t[i]]=s[i]
+            # print("sMap",sMap)
+            # print("tMap",tMap)
         return True
+
+
+
         
