@@ -17,6 +17,7 @@ class Solution:
         #        return  helper(i+1,j+1)
         #     return False
         # return helper(0,0) 
+        #TC O(N*M) SC O(N+M)
         m = len(p)
         n = len(s)
         memo = {}
