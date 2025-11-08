@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/desaiparam/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/desaiparam/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/desaiparam/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/desaiparam/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1121-partition-array-for-maximum-sum](https://github.com/desaiparam/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/desaiparam/LeetCode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1127-last-stone-weight](https://github.com/desaiparam/LeetCode/tree/master/1127-last-stone-weight) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/desaiparam/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/desaiparam/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/desaiparam/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1137-height-checker](https://github.com/desaiparam/LeetCode/tree/master/1137-height-checker) |
 | [1272-invalid-transactions](https://github.com/desaiparam/LeetCode/tree/master/1272-invalid-transactions) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/desaiparam/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
@@ -1208,6 +1210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/desaiparam/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/desaiparam/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/desaiparam/LeetCode/tree/master/1073-number-of-enclaves) |
+| [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/desaiparam/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1380-number-of-closed-islands](https://github.com/desaiparam/LeetCode/tree/master/1380-number-of-closed-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/desaiparam/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Heap (Priority Queue)
