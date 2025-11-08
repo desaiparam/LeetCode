@@ -878,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/desaiparam/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/desaiparam/LeetCode/tree/master/0355-design-twitter) |
 | [0379-design-phone-directory](https://github.com/desaiparam/LeetCode/tree/master/0379-design-phone-directory) |
 | [0445-add-two-numbers-ii](https://github.com/desaiparam/LeetCode/tree/master/0445-add-two-numbers-ii) |
