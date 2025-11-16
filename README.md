@@ -725,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/desaiparam/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/desaiparam/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0341-flatten-nested-list-iterator](https://github.com/desaiparam/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0366-find-leaves-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/desaiparam/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/desaiparam/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0314-binary-tree-vertical-order-traversal](https://github.com/desaiparam/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/desaiparam/LeetCode/tree/master/0333-largest-bst-subtree) |
 | [0341-flatten-nested-list-iterator](https://github.com/desaiparam/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+| [0366-find-leaves-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/desaiparam/LeetCode/tree/master/0437-path-sum-iii) |
 | [0490-the-maze](https://github.com/desaiparam/LeetCode/tree/master/0490-the-maze) |
@@ -844,6 +846,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0285-inorder-successor-in-bst](https://github.com/desaiparam/LeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/desaiparam/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
 | [0333-largest-bst-subtree](https://github.com/desaiparam/LeetCode/tree/master/0333-largest-bst-subtree) |
+| [0366-find-leaves-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0366-find-leaves-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/desaiparam/LeetCode/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0508-most-frequent-subtree-sum](https://github.com/desaiparam/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
