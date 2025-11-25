@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/desaiparam/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/desaiparam/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/desaiparam/LeetCode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/desaiparam/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/desaiparam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/desaiparam/LeetCode/tree/master/2047-find-a-peak-element-ii) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/desaiparam/LeetCode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/desaiparam/LeetCode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/desaiparam/LeetCode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
