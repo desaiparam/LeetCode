@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/desaiparam/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1023-camelcase-matching](https://github.com/desaiparam/LeetCode/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/desaiparam/LeetCode/tree/master/1048-longest-string-chain) |
+| [1055-shortest-way-to-form-string](https://github.com/desaiparam/LeetCode/tree/master/1055-shortest-way-to-form-string) |
 | [1119-robot-bounded-in-circle](https://github.com/desaiparam/LeetCode/tree/master/1119-robot-bounded-in-circle) |
 | [1123-single-row-keyboard](https://github.com/desaiparam/LeetCode/tree/master/1123-single-row-keyboard) |
 | [1272-invalid-transactions](https://github.com/desaiparam/LeetCode/tree/master/1272-invalid-transactions) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/desaiparam/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1023-camelcase-matching](https://github.com/desaiparam/LeetCode/tree/master/1023-camelcase-matching) |
 | [1048-longest-string-chain](https://github.com/desaiparam/LeetCode/tree/master/1048-longest-string-chain) |
+| [1055-shortest-way-to-form-string](https://github.com/desaiparam/LeetCode/tree/master/1055-shortest-way-to-form-string) |
 | [1168-duplicate-zeros](https://github.com/desaiparam/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/desaiparam/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/desaiparam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/desaiparam/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/desaiparam/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/desaiparam/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1055-shortest-way-to-form-string](https://github.com/desaiparam/LeetCode/tree/master/1055-shortest-way-to-form-string) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/desaiparam/LeetCode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/desaiparam/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/desaiparam/LeetCode/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -1094,6 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/desaiparam/LeetCode/tree/master/0561-array-partition) |
 | [0763-partition-labels](https://github.com/desaiparam/LeetCode/tree/master/0763-partition-labels) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/desaiparam/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
+| [1055-shortest-way-to-form-string](https://github.com/desaiparam/LeetCode/tree/master/1055-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/desaiparam/LeetCode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/desaiparam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/desaiparam/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
