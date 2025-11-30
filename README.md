@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/desaiparam/LeetCode/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/desaiparam/LeetCode/tree/master/0807-custom-sort-string) |
 | [0812-rotate-string](https://github.com/desaiparam/LeetCode/tree/master/0812-rotate-string) |
+| [0833-find-and-replace-in-string](https://github.com/desaiparam/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0874-backspace-string-compare](https://github.com/desaiparam/LeetCode/tree/master/0874-backspace-string-compare) |
 | [0981-delete-columns-to-make-sorted](https://github.com/desaiparam/LeetCode/tree/master/0981-delete-columns-to-make-sorted) |
 | [1023-time-based-key-value-store](https://github.com/desaiparam/LeetCode/tree/master/1023-time-based-key-value-store) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/desaiparam/LeetCode/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
+| [0833-find-and-replace-in-string](https://github.com/desaiparam/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/desaiparam/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/desaiparam/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-custom-sort-string](https://github.com/desaiparam/LeetCode/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
+| [0833-find-and-replace-in-string](https://github.com/desaiparam/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0924-minimize-malware-spread](https://github.com/desaiparam/LeetCode/tree/master/0924-minimize-malware-spread) |
 | [0966-binary-subarrays-with-sum](https://github.com/desaiparam/LeetCode/tree/master/0966-binary-subarrays-with-sum) |
@@ -706,6 +709,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/desaiparam/LeetCode/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0807-custom-sort-string](https://github.com/desaiparam/LeetCode/tree/master/0807-custom-sort-string) |
+| [0833-find-and-replace-in-string](https://github.com/desaiparam/LeetCode/tree/master/0833-find-and-replace-in-string) |
 | [0883-car-fleet](https://github.com/desaiparam/LeetCode/tree/master/0883-car-fleet) |
 | [0941-sort-array-by-parity](https://github.com/desaiparam/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/desaiparam/LeetCode/tree/master/0948-sort-an-array) |
