@@ -20,6 +20,7 @@ class Solution:
         #             seenS = 1
                 
         # return collision
+        # THis MAKES SURE SO REMOVE THE EXTRA L and R on the sides
         directions = directions.lstrip('L').rstrip('R')
         # print(directions)
         return len(directions) - directions.count('S')
