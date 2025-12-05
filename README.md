@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3350-adjacent-increasing-subarrays-detection-ii](https://github.com/desaiparam/LeetCode/tree/master/3350-adjacent-increasing-subarrays-detection-ii) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/desaiparam/LeetCode/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/desaiparam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/desaiparam/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -517,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/desaiparam/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2752-sum-multiples](https://github.com/desaiparam/LeetCode/tree/master/2752-sum-multiples) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/desaiparam/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/desaiparam/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3568-find-the-key-of-the-numbers](https://github.com/desaiparam/LeetCode/tree/master/3568-find-the-key-of-the-numbers) |
 ## Two Pointers
@@ -1200,6 +1202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1983-maximum-population-year](https://github.com/desaiparam/LeetCode/tree/master/1983-maximum-population-year) |
 | [2075-brightest-position-on-street](https://github.com/desaiparam/LeetCode/tree/master/2075-brightest-position-on-street) |
 | [3034-points-that-intersect-with-cars](https://github.com/desaiparam/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/desaiparam/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Matrix
 |  |
 | ------- |
