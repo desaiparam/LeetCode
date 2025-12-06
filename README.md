@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/desaiparam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/desaiparam/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/desaiparam/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/desaiparam/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/desaiparam/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Memoization
 |  |
 | ------- |
@@ -1107,6 +1109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/desaiparam/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/desaiparam/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Greedy
 |  |
 | ------- |
@@ -1203,6 +1206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2075-brightest-position-on-street](https://github.com/desaiparam/LeetCode/tree/master/2075-brightest-position-on-street) |
 | [3034-points-that-intersect-with-cars](https://github.com/desaiparam/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/desaiparam/LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Matrix
 |  |
 | ------- |
@@ -1403,6 +1407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0379-design-phone-directory](https://github.com/desaiparam/LeetCode/tree/master/0379-design-phone-directory) |
 | [0387-first-unique-character-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1501,4 +1506,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/desaiparam/LeetCode/tree/master/1192-critical-connections-in-a-network) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
