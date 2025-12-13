@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/desaiparam/LeetCode/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/desaiparam/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/desaiparam/LeetCode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3606-coupon-code-validator](https://github.com/desaiparam/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Stack
 |  |
 | ------- |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/desaiparam/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/desaiparam/LeetCode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/desaiparam/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Hash Table
 |  |
 | ------- |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/desaiparam/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3531-count-covered-buildings](https://github.com/desaiparam/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/desaiparam/LeetCode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/desaiparam/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |
@@ -757,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/desaiparam/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3433-count-mentions-per-user](https://github.com/desaiparam/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/desaiparam/LeetCode/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/desaiparam/LeetCode/tree/master/3606-coupon-code-validator) |
 ## Tree
 |  |
 | ------- |
