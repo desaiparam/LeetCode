@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/desaiparam/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/desaiparam/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/desaiparam/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/desaiparam/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2211-count-collisions-on-a-road](https://github.com/desaiparam/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/desaiparam/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -526,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/desaiparam/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/desaiparam/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/desaiparam/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/desaiparam/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/desaiparam/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2383-add-two-integers](https://github.com/desaiparam/LeetCode/tree/master/2383-add-two-integers) |
 | [2491-smallest-even-multiple](https://github.com/desaiparam/LeetCode/tree/master/2491-smallest-even-multiple) |
@@ -696,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1121-partition-array-for-maximum-sum](https://github.com/desaiparam/LeetCode/tree/master/1121-partition-array-for-maximum-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/desaiparam/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1764-maximum-repeating-substring](https://github.com/desaiparam/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/desaiparam/LeetCode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/desaiparam/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/desaiparam/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
