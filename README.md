@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/desaiparam/LeetCode/tree/master/0242-valid-anagram) |
 | [0249-group-shifted-strings](https://github.com/desaiparam/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0257-binary-tree-paths](https://github.com/desaiparam/LeetCode/tree/master/0257-binary-tree-paths) |
+| [0269-alien-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0269-alien-dictionary) |
 | [0273-integer-to-english-words](https://github.com/desaiparam/LeetCode/tree/master/0273-integer-to-english-words) |
 | [0288-unique-word-abbreviation](https://github.com/desaiparam/LeetCode/tree/master/0288-unique-word-abbreviation) |
 | [0290-word-pattern](https://github.com/desaiparam/LeetCode/tree/master/0290-word-pattern) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/desaiparam/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0249-group-shifted-strings](https://github.com/desaiparam/LeetCode/tree/master/0249-group-shifted-strings) |
 | [0253-meeting-rooms-ii](https://github.com/desaiparam/LeetCode/tree/master/0253-meeting-rooms-ii) |
+| [0269-alien-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0269-alien-dictionary) |
 | [0274-h-index](https://github.com/desaiparam/LeetCode/tree/master/0274-h-index) |
 | [0281-zigzag-iterator](https://github.com/desaiparam/LeetCode/tree/master/0281-zigzag-iterator) |
 | [0283-move-zeroes](https://github.com/desaiparam/LeetCode/tree/master/0283-move-zeroes) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/desaiparam/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0261-graph-valid-tree](https://github.com/desaiparam/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0269-alien-dictionary) |
 | [0285-inorder-successor-in-bst](https://github.com/desaiparam/LeetCode/tree/master/0285-inorder-successor-in-bst) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0314-binary-tree-vertical-order-traversal](https://github.com/desaiparam/LeetCode/tree/master/0314-binary-tree-vertical-order-traversal) |
@@ -1029,6 +1032,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/desaiparam/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0269-alien-dictionary) |
 | [0279-perfect-squares](https://github.com/desaiparam/LeetCode/tree/master/0279-perfect-squares) |
 | [0286-walls-and-gates](https://github.com/desaiparam/LeetCode/tree/master/0286-walls-and-gates) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1301,6 +1305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/desaiparam/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/desaiparam/LeetCode/tree/master/0261-graph-valid-tree) |
+| [0269-alien-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0269-alien-dictionary) |
 | [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/desaiparam/LeetCode/tree/master/0801-is-graph-bipartite) |
@@ -1319,6 +1324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/desaiparam/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/desaiparam/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0269-alien-dictionary) |
 ## Union Find
 |  |
 | ------- |
