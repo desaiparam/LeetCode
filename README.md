@@ -876,6 +876,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/desaiparam/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/desaiparam/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/desaiparam/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/desaiparam/LeetCode/tree/master/0733-flood-fill) |
 | [0758-convert-binary-search-tree-to-sorted-doubly-linked-list](https://github.com/desaiparam/LeetCode/tree/master/0758-convert-binary-search-tree-to-sorted-doubly-linked-list) |
@@ -1050,6 +1051,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/desaiparam/LeetCode/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/desaiparam/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/desaiparam/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/desaiparam/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/desaiparam/LeetCode/tree/master/0733-flood-fill) |
 | [0753-open-the-lock](https://github.com/desaiparam/LeetCode/tree/master/0753-open-the-lock) |
@@ -1308,6 +1310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0269-alien-dictionary) |
 | [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/desaiparam/LeetCode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/desaiparam/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/desaiparam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/desaiparam/LeetCode/tree/master/0813-all-paths-from-source-to-target) |
@@ -1333,6 +1336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/desaiparam/LeetCode/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/desaiparam/LeetCode/tree/master/0261-graph-valid-tree) |
 | [0547-number-of-provinces](https://github.com/desaiparam/LeetCode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/desaiparam/LeetCode/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/desaiparam/LeetCode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/desaiparam/LeetCode/tree/master/0801-is-graph-bipartite) |
 | [0924-minimize-malware-spread](https://github.com/desaiparam/LeetCode/tree/master/0924-minimize-malware-spread) |
