@@ -13,7 +13,8 @@ class Solution:
                 return False
             parent[parenty] = parentx
             return True
-        
+        ans = []
         for x,y in edges:
             if not union(x,y):
-                return [x,y]
+                ans = [x,y]
+        return ans
