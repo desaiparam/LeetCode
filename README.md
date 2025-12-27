@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/desaiparam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/desaiparam/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2386-min-max-game](https://github.com/desaiparam/LeetCode/tree/master/2386-min-max-game) |
+| [2402-meeting-rooms-iii](https://github.com/desaiparam/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2522-median-of-a-row-wise-sorted-matrix](https://github.com/desaiparam/LeetCode/tree/master/2522-median-of-a-row-wise-sorted-matrix) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/desaiparam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2547-odd-string-difference](https://github.com/desaiparam/LeetCode/tree/master/2547-odd-string-difference) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2122-count-special-quadruplets](https://github.com/desaiparam/LeetCode/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2402-meeting-rooms-iii](https://github.com/desaiparam/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2406-decode-the-message](https://github.com/desaiparam/LeetCode/tree/master/2406-decode-the-message) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/desaiparam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/desaiparam/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
@@ -771,6 +773,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/desaiparam/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2075-brightest-position-on-street](https://github.com/desaiparam/LeetCode/tree/master/2075-brightest-position-on-street) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2402-meeting-rooms-iii](https://github.com/desaiparam/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/desaiparam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2664-maximize-greatness-of-an-array](https://github.com/desaiparam/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/desaiparam/LeetCode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -1234,6 +1237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/desaiparam/LeetCode/tree/master/2211-count-collisions-on-a-road) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/desaiparam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2386-min-max-game](https://github.com/desaiparam/LeetCode/tree/master/2386-min-max-game) |
+| [2402-meeting-rooms-iii](https://github.com/desaiparam/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/desaiparam/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3433-count-mentions-per-user](https://github.com/desaiparam/LeetCode/tree/master/3433-count-mentions-per-user) |
@@ -1376,6 +1380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/desaiparam/LeetCode/tree/master/1127-last-stone-weight) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/desaiparam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-two-best-non-overlapping-events](https://github.com/desaiparam/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/desaiparam/LeetCode/tree/master/2402-meeting-rooms-iii) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/desaiparam/LeetCode/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Number Theory
 |  |
