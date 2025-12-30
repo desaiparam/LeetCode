@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
 | [0833-find-and-replace-in-string](https://github.com/desaiparam/LeetCode/tree/master/0833-find-and-replace-in-string) |
+| [0840-magic-squares-in-grid](https://github.com/desaiparam/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/desaiparam/LeetCode/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/desaiparam/LeetCode/tree/master/0907-koko-eating-bananas) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/desaiparam/LeetCode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
 | [0833-find-and-replace-in-string](https://github.com/desaiparam/LeetCode/tree/master/0833-find-and-replace-in-string) |
+| [0840-magic-squares-in-grid](https://github.com/desaiparam/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0924-minimize-malware-spread](https://github.com/desaiparam/LeetCode/tree/master/0924-minimize-malware-spread) |
 | [0953-verifying-an-alien-dictionary](https://github.com/desaiparam/LeetCode/tree/master/0953-verifying-an-alien-dictionary) |
@@ -524,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/desaiparam/LeetCode/tree/master/0412-fizz-buzz) |
 | [0445-add-two-numbers-ii](https://github.com/desaiparam/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/desaiparam/LeetCode/tree/master/0523-continuous-subarray-sum) |
+| [0840-magic-squares-in-grid](https://github.com/desaiparam/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [1014-k-closest-points-to-origin](https://github.com/desaiparam/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1031-add-to-array-form-of-integer](https://github.com/desaiparam/LeetCode/tree/master/1031-add-to-array-form-of-integer) |
 | [1119-robot-bounded-in-circle](https://github.com/desaiparam/LeetCode/tree/master/1119-robot-bounded-in-circle) |
@@ -1286,6 +1289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/desaiparam/LeetCode/tree/master/0695-max-area-of-island) |
 | [0723-candy-crush](https://github.com/desaiparam/LeetCode/tree/master/0723-candy-crush) |
 | [0733-flood-fill](https://github.com/desaiparam/LeetCode/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/desaiparam/LeetCode/tree/master/0840-magic-squares-in-grid) |
 | [0909-snakes-and-ladders](https://github.com/desaiparam/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0971-shortest-bridge](https://github.com/desaiparam/LeetCode/tree/master/0971-shortest-bridge) |
 | [1036-rotting-oranges](https://github.com/desaiparam/LeetCode/tree/master/1036-rotting-oranges) |
