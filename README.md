@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/desaiparam/LeetCode/tree/master/1048-longest-string-chain) |
 | [1123-single-row-keyboard](https://github.com/desaiparam/LeetCode/tree/master/1123-single-row-keyboard) |
 | [1149-intersection-of-three-sorted-arrays](https://github.com/desaiparam/LeetCode/tree/master/1149-intersection-of-three-sorted-arrays) |
+| [1244-design-a-leaderboard](https://github.com/desaiparam/LeetCode/tree/master/1244-design-a-leaderboard) |
 | [1272-invalid-transactions](https://github.com/desaiparam/LeetCode/tree/master/1272-invalid-transactions) |
 | [1370-count-number-of-nice-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/desaiparam/LeetCode/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/desaiparam/LeetCode/tree/master/1048-longest-string-chain) |
 | [1085-the-earliest-moment-when-everyone-become-friends](https://github.com/desaiparam/LeetCode/tree/master/1085-the-earliest-moment-when-everyone-become-friends) |
 | [1137-height-checker](https://github.com/desaiparam/LeetCode/tree/master/1137-height-checker) |
+| [1244-design-a-leaderboard](https://github.com/desaiparam/LeetCode/tree/master/1244-design-a-leaderboard) |
 | [1272-invalid-transactions](https://github.com/desaiparam/LeetCode/tree/master/1272-invalid-transactions) |
 | [1455-filter-restaurants-by-vegan-friendly-price-and-distance](https://github.com/desaiparam/LeetCode/tree/master/1455-filter-restaurants-by-vegan-friendly-price-and-distance) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/desaiparam/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -1435,6 +1437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/desaiparam/LeetCode/tree/master/0817-design-hashmap) |
 | [0860-design-circular-queue](https://github.com/desaiparam/LeetCode/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/desaiparam/LeetCode/tree/master/1023-time-based-key-value-store) |
+| [1244-design-a-leaderboard](https://github.com/desaiparam/LeetCode/tree/master/1244-design-a-leaderboard) |
 | [1582-design-browser-history](https://github.com/desaiparam/LeetCode/tree/master/1582-design-browser-history) |
 | [1722-throne-inheritance](https://github.com/desaiparam/LeetCode/tree/master/1722-throne-inheritance) |
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
