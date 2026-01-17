@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-lexicographically-smallest-string-after-substring-operation](https://github.com/desaiparam/LeetCode/tree/master/2828-lexicographically-smallest-string-after-substring-operation) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/desaiparam/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/desaiparam/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/desaiparam/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3312-number-of-changing-keys](https://github.com/desaiparam/LeetCode/tree/master/3312-number-of-changing-keys) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/desaiparam/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/desaiparam/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/desaiparam/LeetCode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3034-points-that-intersect-with-cars](https://github.com/desaiparam/LeetCode/tree/master/3034-points-that-intersect-with-cars) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/desaiparam/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/desaiparam/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3343-count-numbers-with-unique-digits-ii](https://github.com/desaiparam/LeetCode/tree/master/3343-count-numbers-with-unique-digits-ii) |
 | [3412-permutation-difference-between-two-strings](https://github.com/desaiparam/LeetCode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -1170,6 +1172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/desaiparam/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/desaiparam/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/desaiparam/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Greedy
 |  |
