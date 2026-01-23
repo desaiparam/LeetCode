@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0425-word-squares](https://github.com/desaiparam/LeetCode/tree/master/0425-word-squares) |
 | [0434-number-of-segments-in-a-string](https://github.com/desaiparam/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/desaiparam/LeetCode/tree/master/0482-license-key-formatting) |
+| [0499-the-maze-iii](https://github.com/desaiparam/LeetCode/tree/master/0499-the-maze-iii) |
 | [0567-permutation-in-string](https://github.com/desaiparam/LeetCode/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/desaiparam/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0642-design-search-autocomplete-system](https://github.com/desaiparam/LeetCode/tree/master/0642-design-search-autocomplete-system) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0487-max-consecutive-ones-ii](https://github.com/desaiparam/LeetCode/tree/master/0487-max-consecutive-ones-ii) |
 | [0490-the-maze](https://github.com/desaiparam/LeetCode/tree/master/0490-the-maze) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0499-the-maze-iii](https://github.com/desaiparam/LeetCode/tree/master/0499-the-maze-iii) |
 | [0503-next-greater-element-ii](https://github.com/desaiparam/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0523-continuous-subarray-sum](https://github.com/desaiparam/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -889,6 +891,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/desaiparam/LeetCode/tree/master/0437-path-sum-iii) |
 | [0490-the-maze](https://github.com/desaiparam/LeetCode/tree/master/0490-the-maze) |
+| [0499-the-maze-iii](https://github.com/desaiparam/LeetCode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0508-most-frequent-subtree-sum](https://github.com/desaiparam/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/desaiparam/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
@@ -1070,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0339-nested-list-weight-sum](https://github.com/desaiparam/LeetCode/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0490-the-maze](https://github.com/desaiparam/LeetCode/tree/master/0490-the-maze) |
+| [0499-the-maze-iii](https://github.com/desaiparam/LeetCode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/desaiparam/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
@@ -1299,6 +1303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/desaiparam/LeetCode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0490-the-maze](https://github.com/desaiparam/LeetCode/tree/master/0490-the-maze) |
 | [0498-diagonal-traverse](https://github.com/desaiparam/LeetCode/tree/master/0498-diagonal-traverse) |
+| [0499-the-maze-iii](https://github.com/desaiparam/LeetCode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0529-minesweeper](https://github.com/desaiparam/LeetCode/tree/master/0529-minesweeper) |
 | [0542-01-matrix](https://github.com/desaiparam/LeetCode/tree/master/0542-01-matrix) |
@@ -1388,6 +1393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/desaiparam/LeetCode/tree/master/0355-design-twitter) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/desaiparam/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0499-the-maze-iii](https://github.com/desaiparam/LeetCode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0642-design-search-autocomplete-system](https://github.com/desaiparam/LeetCode/tree/master/0642-design-search-autocomplete-system) |
 | [0658-find-k-closest-elements](https://github.com/desaiparam/LeetCode/tree/master/0658-find-k-closest-elements) |
@@ -1579,6 +1585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0499-the-maze-iii](https://github.com/desaiparam/LeetCode/tree/master/0499-the-maze-iii) |
 | [0505-the-maze-ii](https://github.com/desaiparam/LeetCode/tree/master/0505-the-maze-ii) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/desaiparam/LeetCode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Biconnected Component
@@ -1589,4 +1596,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Graph Theory
+|  |
+| ------- |
+| [0499-the-maze-iii](https://github.com/desaiparam/LeetCode/tree/master/0499-the-maze-iii) |
 <!---LeetCode Topics End-->
