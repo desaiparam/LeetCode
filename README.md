@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1775-design-an-ordered-stream](https://github.com/desaiparam/LeetCode/tree/master/1775-design-an-ordered-stream) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/desaiparam/LeetCode/tree/master/1866-restore-the-array-from-adjacent-pairs) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/desaiparam/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/desaiparam/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1983-maximum-population-year](https://github.com/desaiparam/LeetCode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/desaiparam/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -611,6 +612,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/desaiparam/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1214-two-sum-bsts](https://github.com/desaiparam/LeetCode/tree/master/1214-two-sum-bsts) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/desaiparam/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/desaiparam/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/desaiparam/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/desaiparam/LeetCode/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2664-maximize-greatness-of-an-array](https://github.com/desaiparam/LeetCode/tree/master/2664-maximize-greatness-of-an-array) |
@@ -784,6 +786,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/desaiparam/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/desaiparam/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/desaiparam/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/desaiparam/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2075-brightest-position-on-street](https://github.com/desaiparam/LeetCode/tree/master/2075-brightest-position-on-street) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1196,6 +1199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-shortest-way-to-form-string](https://github.com/desaiparam/LeetCode/tree/master/1055-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/desaiparam/LeetCode/tree/master/1126-minimum-cost-to-connect-sticks) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/desaiparam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/desaiparam/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/desaiparam/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2192-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/desaiparam/LeetCode/tree/master/2192-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/desaiparam/LeetCode/tree/master/2345-minimum-number-of-operations-to-convert-time) |
