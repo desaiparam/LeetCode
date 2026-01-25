@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/desaiparam/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1929-concatenation-of-array](https://github.com/desaiparam/LeetCode/tree/master/1929-concatenation-of-array) |
 | [1983-maximum-population-year](https://github.com/desaiparam/LeetCode/tree/master/1983-maximum-population-year) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/desaiparam/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/desaiparam/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/desaiparam/LeetCode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2047-find-a-peak-element-ii](https://github.com/desaiparam/LeetCode/tree/master/2047-find-a-peak-element-ii) |
@@ -787,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/desaiparam/LeetCode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/desaiparam/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/desaiparam/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/desaiparam/LeetCode/tree/master/2054-two-best-non-overlapping-events) |
 | [2075-brightest-position-on-street](https://github.com/desaiparam/LeetCode/tree/master/2075-brightest-position-on-street) |
 | [2215-finding-3-digit-even-numbers](https://github.com/desaiparam/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -1179,6 +1181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/desaiparam/LeetCode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/desaiparam/LeetCode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/desaiparam/LeetCode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/desaiparam/LeetCode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/desaiparam/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/desaiparam/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/desaiparam/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
