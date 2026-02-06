@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/desaiparam/LeetCode/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/desaiparam/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/desaiparam/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -800,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/desaiparam/LeetCode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/desaiparam/LeetCode/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/desaiparam/LeetCode/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/desaiparam/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Tree
 |  |
 | ------- |
@@ -1189,6 +1191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2626-count-the-number-of-good-subarrays](https://github.com/desaiparam/LeetCode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [3305-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/desaiparam/LeetCode/tree/master/3305-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/desaiparam/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3634-minimum-removals-to-balance-array](https://github.com/desaiparam/LeetCode/tree/master/3634-minimum-removals-to-balance-array) |
 ## Greedy
 |  |
 | ------- |
