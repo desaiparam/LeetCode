@@ -855,6 +855,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/desaiparam/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/desaiparam/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1214-two-sum-bsts](https://github.com/desaiparam/LeetCode/tree/master/1214-two-sum-bsts) |
+| [1382-balance-a-binary-search-tree](https://github.com/desaiparam/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/desaiparam/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1722-throne-inheritance](https://github.com/desaiparam/LeetCode/tree/master/1722-throne-inheritance) |
@@ -931,6 +932,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/desaiparam/LeetCode/tree/master/1192-critical-connections-in-a-network) |
 | [1214-two-sum-bsts](https://github.com/desaiparam/LeetCode/tree/master/1214-two-sum-bsts) |
 | [1380-number-of-closed-islands](https://github.com/desaiparam/LeetCode/tree/master/1380-number-of-closed-islands) |
+| [1382-balance-a-binary-search-tree](https://github.com/desaiparam/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1428-jump-game-iii](https://github.com/desaiparam/LeetCode/tree/master/1428-jump-game-iii) |
 | [1492-time-needed-to-inform-all-employees](https://github.com/desaiparam/LeetCode/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -991,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0975-range-sum-of-bst](https://github.com/desaiparam/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/desaiparam/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1214-two-sum-bsts](https://github.com/desaiparam/LeetCode/tree/master/1214-two-sum-bsts) |
+| [1382-balance-a-binary-search-tree](https://github.com/desaiparam/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/desaiparam/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2096-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/desaiparam/LeetCode/tree/master/2096-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Linked List
@@ -1148,6 +1151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/desaiparam/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/desaiparam/LeetCode/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/desaiparam/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1382-balance-a-binary-search-tree](https://github.com/desaiparam/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Counting
 |  |
 | ------- |
@@ -1207,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/desaiparam/LeetCode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1055-shortest-way-to-form-string](https://github.com/desaiparam/LeetCode/tree/master/1055-shortest-way-to-form-string) |
 | [1126-minimum-cost-to-connect-sticks](https://github.com/desaiparam/LeetCode/tree/master/1126-minimum-cost-to-connect-sticks) |
+| [1382-balance-a-binary-search-tree](https://github.com/desaiparam/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/desaiparam/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/desaiparam/LeetCode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/desaiparam/LeetCode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -1550,6 +1555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/desaiparam/LeetCode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0975-range-sum-of-bst](https://github.com/desaiparam/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1214-two-sum-bsts](https://github.com/desaiparam/LeetCode/tree/master/1214-two-sum-bsts) |
+| [1382-balance-a-binary-search-tree](https://github.com/desaiparam/LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Geometry
 |  |
 | ------- |
