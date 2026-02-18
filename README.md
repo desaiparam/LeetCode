@@ -1135,6 +1135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/desaiparam/LeetCode/tree/master/0190-reverse-bits) |
 | [0287-find-the-duplicate-number](https://github.com/desaiparam/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/desaiparam/LeetCode/tree/master/0338-counting-bits) |
+| [0693-binary-number-with-alternating-bits](https://github.com/desaiparam/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/desaiparam/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/desaiparam/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/desaiparam/LeetCode/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
