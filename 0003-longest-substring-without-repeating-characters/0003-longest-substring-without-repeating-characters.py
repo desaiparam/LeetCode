@@ -3,12 +3,12 @@ class Solution:
         if len(s) == 0:
             return 0
         hashmap = {}
+        j = 0
         maxi = float('-inf')
-        left = 0
         for i in range(len(s)):
             if s[i] in hashmap:
-                left = max(left,hashmap[s[i]]+1)
-            hashmap[s[i]] = i
-            maxi = max(maxi,i-left+1)
+               j = max(hashmap[s[i]]+1,j)
+            hashmap[s[i]] = i 
+            maxi = max(maxi,i-j+1)
         return maxi
-        
+            
